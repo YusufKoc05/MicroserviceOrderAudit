@@ -1,0 +1,6 @@
+RolID,RolAdi,Aciklama
+1,Musteri,Standart e-ticaret müşterisi
+2,VIP_Musteri,Yüksek hacimli kurumsal/bireysel müşteri
+3,Operasyon_Uzmani,Sipariş ve kargo operasyon yetkilisi
+4,Finans_Denetcisi,"Ödeme, iade ve mutabakat denetçisi"
+5,Sistem_Yoneticisi,Mikroservis ve merkezi audit yöneticisi

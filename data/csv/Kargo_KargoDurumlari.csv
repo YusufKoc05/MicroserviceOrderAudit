@@ -1,0 +1,6 @@
+KargoDurumID,DurumKodu,DurumAdi
+1,BARCODE_CREATED,Barkod Oluşturuldu
+2,IN_TRANSIT,Transfer Merkezinde
+3,OUT_FOR_DELIVERY,Dağıtımda (Kuryede)
+4,DELIVERED,Teslim Edildi
+5,RETURNED_TO_SENDER,Göndericiye İade

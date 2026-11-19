@@ -1,0 +1,595 @@
+KargoHareketID,KargoGonderiID,KargoDurumID,Lokasyon,Aciklama,HareketTarihi
+1,1,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-06-03 04:18:00
+2,1,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-06-03 12:18:00
+3,1,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-06-04 10:18:00
+4,1,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-06-04 22:18:00
+5,2,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-06-04 22:40:00
+6,2,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-06-05 06:40:00
+7,2,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-06-06 04:40:00
+8,2,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-06-06 16:40:00
+9,3,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-06-06 22:56:00
+10,3,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-06-07 06:56:00
+11,3,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-06-08 04:56:00
+12,3,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-06-08 16:56:00
+13,4,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-06-09 07:57:00
+14,4,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-06-09 15:57:00
+15,4,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-06-10 13:57:00
+16,4,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-06-11 01:57:00
+17,5,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-06-11 09:39:00
+18,5,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-06-11 17:39:00
+19,5,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-06-12 15:39:00
+20,5,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-06-13 03:39:00
+21,6,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-06-12 17:55:00
+22,6,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-06-13 01:55:00
+23,6,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-06-13 23:55:00
+24,6,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-06-14 11:55:00
+25,7,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-06-14 07:19:00
+26,7,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-06-14 15:19:00
+27,8,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-06-16 07:41:00
+28,8,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-06-16 15:41:00
+29,8,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-06-17 13:41:00
+30,8,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-06-18 01:41:00
+31,9,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-06-20 18:27:00
+32,9,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-06-21 02:27:00
+33,9,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-06-22 00:27:00
+34,9,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-06-22 12:27:00
+35,10,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-06-21 06:39:00
+36,10,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-06-21 14:39:00
+37,10,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-06-22 12:39:00
+38,10,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-06-23 00:39:00
+39,11,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-06-23 09:42:00
+40,11,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-06-23 17:42:00
+41,11,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-06-24 15:42:00
+42,11,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-06-25 03:42:00
+43,12,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-06-25 02:32:00
+44,12,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-06-25 10:32:00
+45,12,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-06-26 08:32:00
+46,12,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-06-26 20:32:00
+47,13,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-06-27 02:09:00
+48,13,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-06-27 10:09:00
+49,13,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-06-28 08:09:00
+50,14,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-06-30 18:33:00
+51,14,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-07-01 02:33:00
+52,14,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-07-02 00:33:00
+53,14,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-07-02 12:33:00
+54,15,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-07-02 12:27:00
+55,15,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-07-02 20:27:00
+56,15,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-07-03 18:27:00
+57,15,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-07-04 06:27:00
+58,16,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-07-06 00:45:00
+59,16,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-07-06 08:45:00
+60,16,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-07-07 06:45:00
+61,16,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-07-07 18:45:00
+62,17,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-07-08 08:57:00
+63,17,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-07-08 16:57:00
+64,17,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-07-09 14:57:00
+65,17,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-07-10 02:57:00
+66,18,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-07-09 09:34:00
+67,18,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-07-09 17:34:00
+68,18,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-07-10 15:34:00
+69,19,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-07-11 01:53:00
+70,19,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-07-11 09:53:00
+71,19,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-07-12 07:53:00
+72,19,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-07-12 19:53:00
+73,20,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-07-13 08:20:00
+74,20,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-07-13 16:20:00
+75,20,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-07-14 14:20:00
+76,20,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-07-15 02:20:00
+77,21,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-07-14 20:47:00
+78,21,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-07-15 04:47:00
+79,21,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-07-16 02:47:00
+80,21,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-07-16 14:47:00
+81,22,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-07-17 15:09:00
+82,22,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-07-17 23:09:00
+83,22,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-07-18 21:09:00
+84,22,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-07-19 09:09:00
+85,23,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-07-18 07:10:00
+86,23,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-07-18 15:10:00
+87,23,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-07-19 13:10:00
+88,23,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-07-20 01:10:00
+89,24,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-07-22 05:54:00
+90,24,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-07-22 13:54:00
+91,25,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-07-23 20:54:00
+92,25,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-07-24 04:54:00
+93,25,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-07-25 02:54:00
+94,25,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-07-25 14:54:00
+95,26,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-07-26 20:31:00
+96,26,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-07-27 04:31:00
+97,26,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-07-28 02:31:00
+98,26,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-07-28 14:31:00
+99,27,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-07-28 22:15:00
+100,27,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-07-29 06:15:00
+101,27,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-07-30 04:15:00
+102,27,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-07-30 16:15:00
+103,28,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-07-31 18:15:00
+104,28,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-08-01 02:15:00
+105,28,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-08-02 00:15:00
+106,28,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-08-02 12:15:00
+107,29,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-08-02 03:07:00
+108,29,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-08-02 11:07:00
+109,29,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-08-03 09:07:00
+110,29,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-08-03 21:07:00
+111,30,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-08-04 04:46:00
+112,30,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-08-04 12:46:00
+113,30,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-08-05 10:46:00
+114,31,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-08-05 13:18:00
+115,31,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-08-05 21:18:00
+116,31,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-08-06 19:18:00
+117,31,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-08-07 07:18:00
+118,32,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-08-07 04:55:00
+119,32,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-08-07 12:55:00
+120,32,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-08-08 10:55:00
+121,32,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-08-08 22:55:00
+122,33,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-08-08 22:15:00
+123,33,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-08-09 06:15:00
+124,33,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-08-10 04:15:00
+125,33,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-08-10 16:15:00
+126,34,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-08-11 05:55:00
+127,34,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-08-11 13:55:00
+128,34,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-08-12 11:55:00
+129,34,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-08-12 23:55:00
+130,35,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-08-13 03:11:00
+131,35,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-08-13 11:11:00
+132,35,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-08-14 09:11:00
+133,35,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-08-14 21:11:00
+134,36,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-08-14 05:45:00
+135,36,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-08-14 13:45:00
+136,36,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-08-15 11:45:00
+137,36,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-08-15 23:45:00
+138,37,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-08-16 16:09:00
+139,37,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-08-17 00:09:00
+140,38,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-08-18 18:25:00
+141,38,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-08-19 02:25:00
+142,38,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-08-20 00:25:00
+143,38,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-08-20 12:25:00
+144,39,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-08-19 22:14:00
+145,39,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-08-20 06:14:00
+146,39,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-08-21 04:14:00
+147,39,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-08-21 16:14:00
+148,40,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-08-23 18:31:00
+149,40,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-08-24 02:31:00
+150,40,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-08-25 00:31:00
+151,40,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-08-25 12:31:00
+152,41,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-08-25 08:55:00
+153,41,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-08-25 16:55:00
+154,41,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-08-26 14:55:00
+155,41,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-08-27 02:55:00
+156,42,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-08-27 15:48:00
+157,42,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-08-27 23:48:00
+158,42,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-08-28 21:48:00
+159,42,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-08-29 09:48:00
+160,43,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-08-29 13:00:00
+161,43,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-08-29 21:00:00
+162,43,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-08-30 19:00:00
+163,44,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-08-31 03:29:00
+164,44,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-08-31 11:29:00
+165,44,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-09-01 09:29:00
+166,44,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-09-01 21:29:00
+167,45,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-09-01 06:59:00
+168,45,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-09-01 14:59:00
+169,45,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-09-02 12:59:00
+170,45,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-09-03 00:59:00
+171,46,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-09-03 06:35:00
+172,46,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-09-03 14:35:00
+173,46,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-09-04 12:35:00
+174,46,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-09-05 00:35:00
+175,47,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-09-05 08:42:00
+176,47,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-09-05 16:42:00
+177,47,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-09-06 14:42:00
+178,47,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-09-07 02:42:00
+179,48,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-09-08 22:54:00
+180,48,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-09-09 06:54:00
+181,48,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-09-10 04:54:00
+182,48,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-09-10 16:54:00
+183,49,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-09-10 05:14:00
+184,49,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-09-10 13:14:00
+185,50,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-09-11 21:20:00
+186,50,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-09-12 05:20:00
+187,50,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-09-13 03:20:00
+188,50,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-09-13 15:20:00
+189,51,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-09-14 14:43:00
+190,51,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-09-14 22:43:00
+191,51,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-09-15 20:43:00
+192,51,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-09-16 08:43:00
+193,52,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-09-16 00:14:00
+194,52,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-09-16 08:14:00
+195,52,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-09-17 06:14:00
+196,52,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-09-17 18:14:00
+197,53,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-09-19 05:44:00
+198,53,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-09-19 13:44:00
+199,53,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-09-20 11:44:00
+200,53,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-09-20 23:44:00
+201,54,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-09-21 03:38:00
+202,54,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-09-21 11:38:00
+203,54,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-09-22 09:38:00
+204,54,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-09-22 21:38:00
+205,55,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-09-25 00:50:00
+206,55,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-09-25 08:50:00
+207,55,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-09-26 06:50:00
+208,55,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-09-26 18:50:00
+209,56,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-09-26 22:09:00
+210,56,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-09-27 06:09:00
+211,56,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-09-28 04:09:00
+212,56,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-09-28 16:09:00
+213,57,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-09-27 23:29:00
+214,57,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-09-28 07:29:00
+215,57,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-09-29 05:29:00
+216,57,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-09-29 17:29:00
+217,58,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-09-30 13:20:00
+218,58,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-09-30 21:20:00
+219,58,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-10-01 19:20:00
+220,58,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-10-02 07:20:00
+221,59,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-10-01 21:19:00
+222,59,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-10-02 05:19:00
+223,59,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-10-03 03:19:00
+224,59,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-10-03 15:19:00
+225,60,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-10-03 23:53:00
+226,60,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-10-04 07:53:00
+227,60,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-10-05 05:53:00
+228,60,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-10-05 17:53:00
+229,61,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-10-06 07:34:00
+230,61,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-10-06 15:34:00
+231,62,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-10-07 00:50:00
+232,62,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-10-07 08:50:00
+233,62,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-10-08 06:50:00
+234,62,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-10-08 18:50:00
+235,63,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-10-08 20:17:00
+236,63,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-10-09 04:17:00
+237,63,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-10-10 02:17:00
+238,63,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-10-10 14:17:00
+239,64,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-10-11 14:20:00
+240,64,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-10-11 22:20:00
+241,64,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-10-12 20:20:00
+242,64,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-10-13 08:20:00
+243,65,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-10-12 22:30:00
+244,65,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-10-13 06:30:00
+245,65,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-10-14 04:30:00
+246,65,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-10-14 16:30:00
+247,66,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-10-16 04:39:00
+248,66,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-10-16 12:39:00
+249,66,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-10-17 10:39:00
+250,66,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-10-17 22:39:00
+251,67,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-10-18 16:41:00
+252,67,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-10-19 00:41:00
+253,67,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-10-19 22:41:00
+254,68,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-10-20 04:23:00
+255,68,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-10-20 12:23:00
+256,68,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-10-21 10:23:00
+257,68,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-10-21 22:23:00
+258,69,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-10-22 07:51:00
+259,69,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-10-22 15:51:00
+260,69,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-10-23 13:51:00
+261,69,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-10-24 01:51:00
+262,70,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-10-24 09:55:00
+263,70,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-10-24 17:55:00
+264,70,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-10-25 15:55:00
+265,70,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-10-26 03:55:00
+266,71,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-10-27 15:39:00
+267,71,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-10-27 23:39:00
+268,71,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-10-28 21:39:00
+269,71,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-10-29 09:39:00
+270,72,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-10-29 05:58:00
+271,72,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-10-29 13:58:00
+272,72,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-10-30 11:58:00
+273,72,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-10-30 23:58:00
+274,73,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-10-30 22:47:00
+275,73,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-10-31 06:47:00
+276,73,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-11-01 04:47:00
+277,73,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-11-01 16:47:00
+278,74,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-11-02 01:48:00
+279,74,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-11-02 09:48:00
+280,74,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-11-03 07:48:00
+281,74,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-11-03 19:48:00
+282,75,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-11-03 09:17:00
+283,75,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-11-03 17:17:00
+284,75,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-11-04 15:17:00
+285,75,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-11-05 03:17:00
+286,76,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-11-04 21:14:00
+287,76,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-11-05 05:14:00
+288,76,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-11-06 03:14:00
+289,76,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-11-06 15:14:00
+290,77,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-11-07 09:11:00
+291,77,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-11-07 17:11:00
+292,77,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-11-08 15:11:00
+293,77,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-11-09 03:11:00
+294,78,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-11-08 22:55:00
+295,78,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-11-09 06:55:00
+296,78,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-11-10 04:55:00
+297,78,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-11-10 16:55:00
+298,79,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-11-12 06:14:00
+299,79,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-11-12 14:14:00
+300,79,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-11-13 12:14:00
+301,80,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-11-14 00:15:00
+302,80,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-11-14 08:15:00
+303,80,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-11-15 06:15:00
+304,80,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-11-15 18:15:00
+305,81,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-11-15 22:11:00
+306,81,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-11-16 06:11:00
+307,81,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-11-17 04:11:00
+308,81,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-11-17 16:11:00
+309,82,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-11-18 11:28:00
+310,82,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-11-18 19:28:00
+311,82,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-11-19 17:28:00
+312,82,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-11-20 05:28:00
+313,83,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-11-20 05:04:00
+314,83,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-11-20 13:04:00
+315,83,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-11-21 11:04:00
+316,83,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-11-21 23:04:00
+317,84,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-11-21 16:12:00
+318,84,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-11-22 00:12:00
+319,84,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-11-22 22:12:00
+320,84,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-11-23 10:12:00
+321,85,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-11-23 10:33:00
+322,85,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-11-23 18:33:00
+323,85,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-11-24 16:33:00
+324,85,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-11-25 04:33:00
+325,86,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-11-25 06:04:00
+326,86,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-11-25 14:04:00
+327,87,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-11-29 09:32:00
+328,87,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-11-29 17:32:00
+329,87,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-11-30 15:32:00
+330,87,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-12-01 03:32:00
+331,88,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-11-30 00:04:00
+332,88,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-11-30 08:04:00
+333,88,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-12-01 06:04:00
+334,88,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-12-01 18:04:00
+335,89,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-12-02 01:11:00
+336,89,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-12-02 09:11:00
+337,89,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-12-03 07:11:00
+338,89,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-12-03 19:11:00
+339,90,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-12-04 10:14:00
+340,90,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-12-04 18:14:00
+341,90,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-12-05 16:14:00
+342,90,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-12-06 04:14:00
+343,91,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-12-06 08:32:00
+344,91,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-12-06 16:32:00
+345,91,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-12-07 14:32:00
+346,91,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-12-08 02:32:00
+347,92,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-12-09 03:52:00
+348,92,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-12-09 11:52:00
+349,92,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-12-10 09:52:00
+350,92,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-12-10 21:52:00
+351,93,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-12-10 23:53:00
+352,93,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-12-11 07:53:00
+353,93,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-12-12 05:53:00
+354,93,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-12-12 17:53:00
+355,94,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-12-12 22:01:00
+356,94,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-12-13 06:01:00
+357,94,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-12-14 04:01:00
+358,94,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-12-14 16:01:00
+359,95,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-12-15 09:40:00
+360,95,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-12-15 17:40:00
+361,95,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-12-16 15:40:00
+362,95,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-12-17 03:40:00
+363,96,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-12-17 07:15:00
+364,96,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-12-17 15:15:00
+365,96,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-12-18 13:15:00
+366,96,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-12-19 01:15:00
+367,97,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-12-18 07:16:00
+368,97,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-12-18 15:16:00
+369,97,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-12-19 13:16:00
+370,97,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-12-20 01:16:00
+371,98,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-12-20 06:08:00
+372,98,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-12-20 14:08:00
+373,98,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-12-21 12:08:00
+374,99,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-12-21 22:45:00
+375,99,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-12-22 06:45:00
+376,99,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-12-23 04:45:00
+377,99,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-12-23 16:45:00
+378,100,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-12-24 16:12:00
+379,100,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-12-25 00:12:00
+380,100,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-12-25 22:12:00
+381,100,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-12-26 10:12:00
+382,101,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-12-26 06:11:00
+383,101,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-12-26 14:11:00
+384,101,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-12-27 12:11:00
+385,101,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-12-28 00:11:00
+386,102,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-12-26 23:05:00
+387,102,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-12-27 07:05:00
+388,102,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2025-12-28 05:05:00
+389,102,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2025-12-28 17:05:00
+390,103,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2025-12-31 00:54:00
+391,103,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2025-12-31 08:54:00
+392,103,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-01-01 06:54:00
+393,103,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-01-01 18:54:00
+394,104,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-01-02 07:28:00
+395,104,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-01-02 15:28:00
+396,104,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-01-03 13:28:00
+397,105,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-01-05 10:13:00
+398,105,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-01-05 18:13:00
+399,105,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-01-06 16:13:00
+400,105,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-01-07 04:13:00
+401,106,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-01-06 22:35:00
+402,106,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-01-07 06:35:00
+403,106,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-01-08 04:35:00
+404,106,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-01-08 16:35:00
+405,107,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-01-08 20:23:00
+406,107,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-01-09 04:23:00
+407,107,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-01-10 02:23:00
+408,107,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-01-10 14:23:00
+409,108,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-01-11 09:52:00
+410,108,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-01-11 17:52:00
+411,108,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-01-12 15:52:00
+412,108,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-01-13 03:52:00
+413,109,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-01-13 07:08:00
+414,109,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-01-13 15:08:00
+415,109,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-01-14 13:08:00
+416,109,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-01-15 01:08:00
+417,110,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-01-16 13:17:00
+418,110,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-01-16 21:17:00
+419,110,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-01-17 19:17:00
+420,110,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-01-18 07:17:00
+421,111,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-01-18 15:21:00
+422,111,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-01-18 23:21:00
+423,111,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-01-19 21:21:00
+424,111,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-01-20 09:21:00
+425,112,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-01-20 15:40:00
+426,112,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-01-20 23:40:00
+427,112,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-01-21 21:40:00
+428,112,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-01-22 09:40:00
+429,113,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-01-22 08:19:00
+430,113,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-01-22 16:19:00
+431,113,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-01-23 14:19:00
+432,113,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-01-24 02:19:00
+433,114,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-01-23 07:25:00
+434,114,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-01-23 15:25:00
+435,114,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-01-24 13:25:00
+436,114,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-01-25 01:25:00
+437,115,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-01-25 03:09:00
+438,115,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-01-25 11:09:00
+439,115,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-01-26 09:09:00
+440,115,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-01-26 21:09:00
+441,116,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-01-27 11:32:00
+442,116,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-01-27 19:32:00
+443,117,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-01-29 15:56:00
+444,117,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-01-29 23:56:00
+445,117,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-01-30 21:56:00
+446,117,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-01-31 09:56:00
+447,118,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-02-01 17:39:00
+448,118,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-02-02 01:39:00
+449,118,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-02-02 23:39:00
+450,118,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-02-03 11:39:00
+451,119,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-02-03 00:12:00
+452,119,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-02-03 08:12:00
+453,119,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-02-04 06:12:00
+454,119,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-02-04 18:12:00
+455,120,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-02-05 00:20:00
+456,120,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-02-05 08:20:00
+457,120,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-02-06 06:20:00
+458,120,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-02-06 18:20:00
+459,121,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-02-07 07:21:00
+460,121,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-02-07 15:21:00
+461,121,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-02-08 13:21:00
+462,121,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-02-09 01:21:00
+463,122,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-02-09 14:36:00
+464,122,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-02-09 22:36:00
+465,123,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-02-09 23:12:00
+466,123,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-02-10 07:12:00
+467,123,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-02-11 05:12:00
+468,123,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-02-11 17:12:00
+469,124,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-02-12 12:49:00
+470,124,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-02-12 20:49:00
+471,124,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-02-13 18:49:00
+472,124,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-02-14 06:49:00
+473,125,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-02-14 13:21:00
+474,125,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-02-14 21:21:00
+475,125,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-02-15 19:21:00
+476,125,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-02-16 07:21:00
+477,126,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-02-16 02:44:00
+478,126,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-02-16 10:44:00
+479,126,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-02-17 08:44:00
+480,126,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-02-17 20:44:00
+481,127,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-02-18 18:05:00
+482,127,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-02-19 02:05:00
+483,127,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-02-20 00:05:00
+484,127,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-02-20 12:05:00
+485,128,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-02-19 14:15:00
+486,128,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-02-19 22:15:00
+487,128,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-02-20 20:15:00
+488,128,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-02-21 08:15:00
+489,129,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-02-21 18:30:00
+490,129,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-02-22 02:30:00
+491,129,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-02-23 00:30:00
+492,130,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-02-23 05:20:00
+493,130,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-02-23 13:20:00
+494,130,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-02-24 11:20:00
+495,130,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-02-24 23:20:00
+496,131,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-02-24 21:53:00
+497,131,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-02-25 05:53:00
+498,131,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-02-26 03:53:00
+499,131,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-02-26 15:53:00
+500,132,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-02-28 01:00:00
+501,132,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-02-28 09:00:00
+502,132,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-03-01 07:00:00
+503,132,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-03-01 19:00:00
+504,133,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-03-02 08:42:00
+505,133,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-03-02 16:42:00
+506,133,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-03-03 14:42:00
+507,133,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-03-04 02:42:00
+508,134,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-03-06 03:03:00
+509,134,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-03-06 11:03:00
+510,134,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-03-07 09:03:00
+511,135,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-03-08 03:08:00
+512,135,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-03-08 11:08:00
+513,135,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-03-09 09:08:00
+514,135,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-03-09 21:08:00
+515,136,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-03-08 22:33:00
+516,136,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-03-09 06:33:00
+517,136,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-03-10 04:33:00
+518,136,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-03-10 16:33:00
+519,137,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-03-11 18:37:00
+520,137,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-03-12 02:37:00
+521,137,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-03-13 00:37:00
+522,137,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-03-13 12:37:00
+523,138,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-03-12 20:25:00
+524,138,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-03-13 04:25:00
+525,138,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-03-14 02:25:00
+526,138,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-03-14 14:25:00
+527,139,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-03-15 11:02:00
+528,139,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-03-15 19:02:00
+529,139,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-03-16 17:02:00
+530,139,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-03-17 05:02:00
+531,140,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-03-17 08:05:00
+532,140,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-03-17 16:05:00
+533,140,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-03-18 14:05:00
+534,140,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-03-19 02:05:00
+535,141,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-03-17 20:48:00
+536,141,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-03-18 04:48:00
+537,142,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-03-22 02:04:00
+538,142,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-03-22 10:04:00
+539,142,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-03-23 08:04:00
+540,142,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-03-23 20:04:00
+541,143,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-03-24 10:14:00
+542,143,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-03-24 18:14:00
+543,143,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-03-25 16:14:00
+544,143,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-03-26 04:14:00
+545,144,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-03-27 07:41:00
+546,144,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-03-27 15:41:00
+547,144,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-03-28 13:41:00
+548,144,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-03-29 01:41:00
+549,145,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-03-29 18:09:00
+550,145,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-03-30 02:09:00
+551,145,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-03-31 00:09:00
+552,145,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-03-31 12:09:00
+553,146,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-03-31 10:54:00
+554,146,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-03-31 18:54:00
+555,146,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-04-01 16:54:00
+556,146,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-04-02 04:54:00
+557,147,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-04-02 05:58:00
+558,147,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-04-02 13:58:00
+559,147,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-04-03 11:58:00
+560,147,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-04-03 23:58:00
+561,148,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-04-04 15:45:00
+562,148,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-04-04 23:45:00
+563,148,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-04-05 21:45:00
+564,148,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-04-06 09:45:00
+565,149,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-04-07 07:20:00
+566,149,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-04-07 15:20:00
+567,149,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-04-08 13:20:00
+568,149,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-04-09 01:20:00
+569,150,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-04-09 03:24:00
+570,150,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-04-09 11:24:00
+571,150,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-04-10 09:24:00
+572,150,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-04-10 21:24:00
+573,151,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-04-11 11:29:00
+574,151,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-04-11 19:29:00
+575,151,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-04-12 17:29:00
+576,151,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-04-13 05:29:00
+577,152,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-04-13 16:03:00
+578,152,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-04-14 00:03:00
+579,153,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-04-13 22:45:00
+580,153,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-04-14 06:45:00
+581,153,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-04-15 04:45:00
+582,153,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-04-15 16:45:00
+583,154,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-04-16 13:26:00
+584,154,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-04-16 21:26:00
+585,154,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-04-17 19:26:00
+586,154,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-04-18 07:26:00
+587,155,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-04-18 17:27:00
+588,155,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-04-19 01:27:00
+589,155,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-04-19 23:27:00
+590,155,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-04-20 11:27:00
+591,156,1,İstanbul Tuzla Lojistik Merkezi,Gönderi barkodu oluşturuldu ve çıkış şubesinden teslim alındı,2026-04-20 08:05:00
+592,156,2,İstanbul Anadolu Transfer Merkezi,Transfer merkezinde ayrıştırma işlemi tamamlandı,2026-04-20 16:05:00
+593,156,3,Varış Şubesi Dağıtım Merkezi,Kurye dağıtıma çıkardı,2026-04-21 14:05:00
+594,156,4,Alıcı Teslimat Adresi,Alıcıya kimlik/kod doğrulaması ile teslim edildi,2026-04-22 02:05:00

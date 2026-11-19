@@ -1,0 +1,833 @@
+SiparisDurumGecmisID,SiparisID,EskiSiparisDurumID,YeniSiparisDurumID,DegistirenKullaniciID,DegisimTarihi,Aciklama
+1,1,,1,10,2025-06-02 18:18:00,Sipariş müşteri tarafından oluşturuldu.
+2,1,1,2,10,2025-06-02 18:20:00,Ödeme servisi onayı alındı.
+3,1,2,3,10,2025-06-02 21:18:00,Depo hazırlık süreci başladı.
+4,1,3,4,10,2025-06-03 04:18:00,Kargo firmasına çıkış yapıldı.
+5,1,4,5,10,2025-06-04 18:18:00,Müşteriye teslim edildi.
+6,2,,1,4,2025-06-04 12:40:00,Sipariş müşteri tarafından oluşturuldu.
+7,2,1,2,4,2025-06-04 12:42:00,Ödeme servisi onayı alındı.
+8,2,2,3,4,2025-06-04 15:40:00,Depo hazırlık süreci başladı.
+9,2,3,4,4,2025-06-04 22:40:00,Kargo firmasına çıkış yapıldı.
+10,2,4,5,4,2025-06-06 12:40:00,Müşteriye teslim edildi.
+11,3,,1,8,2025-06-06 12:56:00,Sipariş müşteri tarafından oluşturuldu.
+12,3,1,2,8,2025-06-06 12:58:00,Ödeme servisi onayı alındı.
+13,3,2,3,8,2025-06-06 15:56:00,Depo hazırlık süreci başladı.
+14,3,3,4,8,2025-06-06 22:56:00,Kargo firmasına çıkış yapıldı.
+15,3,4,5,8,2025-06-08 12:56:00,Müşteriye teslim edildi.
+16,4,,1,20,2025-06-08 21:57:00,Sipariş müşteri tarafından oluşturuldu.
+17,4,1,2,20,2025-06-08 21:59:00,Ödeme servisi onayı alındı.
+18,4,2,3,20,2025-06-09 00:57:00,Depo hazırlık süreci başladı.
+19,4,3,4,20,2025-06-09 07:57:00,Kargo firmasına çıkış yapıldı.
+20,4,4,5,20,2025-06-10 21:57:00,Müşteriye teslim edildi.
+21,5,,1,36,2025-06-10 23:39:00,Sipariş müşteri tarafından oluşturuldu.
+22,5,1,2,36,2025-06-10 23:41:00,Ödeme servisi onayı alındı.
+23,5,2,3,36,2025-06-11 02:39:00,Depo hazırlık süreci başladı.
+24,5,3,4,36,2025-06-11 09:39:00,Kargo firmasına çıkış yapıldı.
+25,5,4,5,36,2025-06-12 23:39:00,Müşteriye teslim edildi.
+26,6,,1,27,2025-06-12 07:55:00,Sipariş müşteri tarafından oluşturuldu.
+27,6,1,2,27,2025-06-12 07:57:00,Ödeme servisi onayı alındı.
+28,6,2,3,27,2025-06-12 10:55:00,Depo hazırlık süreci başladı.
+29,6,3,4,27,2025-06-12 17:55:00,Kargo firmasına çıkış yapıldı.
+30,6,4,5,27,2025-06-14 07:55:00,Müşteriye teslim edildi.
+31,7,,1,30,2025-06-13 21:19:00,Sipariş müşteri tarafından oluşturuldu.
+32,7,1,2,30,2025-06-13 21:21:00,Ödeme servisi onayı alındı.
+33,7,2,3,30,2025-06-14 00:19:00,Depo hazırlık süreci başladı.
+34,7,3,4,30,2025-06-14 07:19:00,Kargo firmasına çıkış yapıldı.
+35,8,,1,18,2025-06-15 21:41:00,Sipariş müşteri tarafından oluşturuldu.
+36,8,1,2,18,2025-06-15 21:43:00,Ödeme servisi onayı alındı.
+37,8,2,3,18,2025-06-16 00:41:00,Depo hazırlık süreci başladı.
+38,8,3,4,18,2025-06-16 07:41:00,Kargo firmasına çıkış yapıldı.
+39,8,4,5,18,2025-06-17 21:41:00,Müşteriye teslim edildi.
+40,9,,1,23,2025-06-17 20:27:00,Sipariş müşteri tarafından oluşturuldu.
+41,9,1,2,23,2025-06-17 20:29:00,Ödeme servisi onayı alındı.
+42,10,,1,3,2025-06-20 08:27:00,Sipariş müşteri tarafından oluşturuldu.
+43,10,1,2,3,2025-06-20 08:29:00,Ödeme servisi onayı alındı.
+44,10,2,3,3,2025-06-20 11:27:00,Depo hazırlık süreci başladı.
+45,10,3,4,3,2025-06-20 18:27:00,Kargo firmasına çıkış yapıldı.
+46,10,4,5,3,2025-06-22 08:27:00,Müşteriye teslim edildi.
+47,11,,1,43,2025-06-20 20:39:00,Sipariş müşteri tarafından oluşturuldu.
+48,11,1,2,43,2025-06-20 20:41:00,Ödeme servisi onayı alındı.
+49,11,2,3,43,2025-06-20 23:39:00,Depo hazırlık süreci başladı.
+50,11,3,4,43,2025-06-21 06:39:00,Kargo firmasına çıkış yapıldı.
+51,11,4,5,43,2025-06-22 20:39:00,Müşteriye teslim edildi.
+52,12,,1,13,2025-06-22 23:42:00,Sipariş müşteri tarafından oluşturuldu.
+53,12,1,2,13,2025-06-22 23:44:00,Ödeme servisi onayı alındı.
+54,12,2,3,13,2025-06-23 02:42:00,Depo hazırlık süreci başladı.
+55,12,3,4,13,2025-06-23 09:42:00,Kargo firmasına çıkış yapıldı.
+56,12,4,5,13,2025-06-24 23:42:00,Müşteriye teslim edildi.
+57,12,5,7,13,2025-06-27 23:42:00,İade incelendi ve ücret iadesi onaylandı.
+58,13,,1,44,2025-06-24 16:32:00,Sipariş müşteri tarafından oluşturuldu.
+59,13,1,2,44,2025-06-24 16:34:00,Ödeme servisi onayı alındı.
+60,13,2,3,44,2025-06-24 19:32:00,Depo hazırlık süreci başladı.
+61,13,3,4,44,2025-06-25 02:32:00,Kargo firmasına çıkış yapıldı.
+62,13,4,5,44,2025-06-26 16:32:00,Müşteriye teslim edildi.
+63,14,,1,15,2025-06-26 16:09:00,Sipariş müşteri tarafından oluşturuldu.
+64,14,1,2,15,2025-06-26 16:11:00,Ödeme servisi onayı alındı.
+65,14,2,3,15,2025-06-26 19:09:00,Depo hazırlık süreci başladı.
+66,14,3,4,15,2025-06-27 02:09:00,Kargo firmasına çıkış yapıldı.
+67,15,,1,37,2025-06-28 16:45:00,Sipariş müşteri tarafından oluşturuldu.
+68,15,1,2,37,2025-06-28 16:47:00,Ödeme servisi onayı alındı.
+69,15,2,6,37,2025-06-28 17:45:00,Müşteri talebiyle iptal edildi.
+70,16,,1,12,2025-06-30 08:33:00,Sipariş müşteri tarafından oluşturuldu.
+71,16,1,2,12,2025-06-30 08:35:00,Ödeme servisi onayı alındı.
+72,16,2,3,12,2025-06-30 11:33:00,Depo hazırlık süreci başladı.
+73,16,3,4,12,2025-06-30 18:33:00,Kargo firmasına çıkış yapıldı.
+74,16,4,5,12,2025-07-02 08:33:00,Müşteriye teslim edildi.
+75,17,,1,47,2025-07-02 02:27:00,Sipariş müşteri tarafından oluşturuldu.
+76,17,1,2,47,2025-07-02 02:29:00,Ödeme servisi onayı alındı.
+77,17,2,3,47,2025-07-02 05:27:00,Depo hazırlık süreci başladı.
+78,17,3,4,47,2025-07-02 12:27:00,Kargo firmasına çıkış yapıldı.
+79,17,4,5,47,2025-07-04 02:27:00,Müşteriye teslim edildi.
+80,18,,1,46,2025-07-03 19:15:00,Sipariş müşteri tarafından oluşturuldu.
+81,18,1,2,46,2025-07-03 19:17:00,Ödeme servisi onayı alındı.
+82,19,,1,45,2025-07-05 14:45:00,Sipariş müşteri tarafından oluşturuldu.
+83,19,1,2,45,2025-07-05 14:47:00,Ödeme servisi onayı alındı.
+84,19,2,3,45,2025-07-05 17:45:00,Depo hazırlık süreci başladı.
+85,19,3,4,45,2025-07-06 00:45:00,Kargo firmasına çıkış yapıldı.
+86,19,4,5,45,2025-07-07 14:45:00,Müşteriye teslim edildi.
+87,20,,1,27,2025-07-07 22:57:00,Sipariş müşteri tarafından oluşturuldu.
+88,20,1,2,27,2025-07-07 22:59:00,Ödeme servisi onayı alındı.
+89,20,2,3,27,2025-07-08 01:57:00,Depo hazırlık süreci başladı.
+90,20,3,4,27,2025-07-08 08:57:00,Kargo firmasına çıkış yapıldı.
+91,20,4,5,27,2025-07-09 22:57:00,Müşteriye teslim edildi.
+92,21,,1,25,2025-07-08 23:34:00,Sipariş müşteri tarafından oluşturuldu.
+93,21,1,2,25,2025-07-08 23:36:00,Ödeme servisi onayı alındı.
+94,21,2,3,25,2025-07-09 02:34:00,Depo hazırlık süreci başladı.
+95,21,3,4,25,2025-07-09 09:34:00,Kargo firmasına çıkış yapıldı.
+96,22,,1,26,2025-07-10 15:53:00,Sipariş müşteri tarafından oluşturuldu.
+97,22,1,2,26,2025-07-10 15:55:00,Ödeme servisi onayı alındı.
+98,22,2,3,26,2025-07-10 18:53:00,Depo hazırlık süreci başladı.
+99,22,3,4,26,2025-07-11 01:53:00,Kargo firmasına çıkış yapıldı.
+100,22,4,5,26,2025-07-12 15:53:00,Müşteriye teslim edildi.
+101,23,,1,17,2025-07-12 22:20:00,Sipariş müşteri tarafından oluşturuldu.
+102,23,1,2,17,2025-07-12 22:22:00,Ödeme servisi onayı alındı.
+103,23,2,3,17,2025-07-13 01:20:00,Depo hazırlık süreci başladı.
+104,23,3,4,17,2025-07-13 08:20:00,Kargo firmasına çıkış yapıldı.
+105,23,4,5,17,2025-07-14 22:20:00,Müşteriye teslim edildi.
+106,24,,1,31,2025-07-14 10:47:00,Sipariş müşteri tarafından oluşturuldu.
+107,24,1,2,31,2025-07-14 10:49:00,Ödeme servisi onayı alındı.
+108,24,2,3,31,2025-07-14 13:47:00,Depo hazırlık süreci başladı.
+109,24,3,4,31,2025-07-14 20:47:00,Kargo firmasına çıkış yapıldı.
+110,24,4,5,31,2025-07-16 10:47:00,Müşteriye teslim edildi.
+111,24,5,7,31,2025-07-19 10:47:00,İade incelendi ve ücret iadesi onaylandı.
+112,25,,1,2,2025-07-17 05:09:00,Sipariş müşteri tarafından oluşturuldu.
+113,25,1,2,2,2025-07-17 05:11:00,Ödeme servisi onayı alındı.
+114,25,2,3,2,2025-07-17 08:09:00,Depo hazırlık süreci başladı.
+115,25,3,4,2,2025-07-17 15:09:00,Kargo firmasına çıkış yapıldı.
+116,25,4,5,2,2025-07-19 05:09:00,Müşteriye teslim edildi.
+117,26,,1,50,2025-07-17 21:10:00,Sipariş müşteri tarafından oluşturuldu.
+118,26,1,2,50,2025-07-17 21:12:00,Ödeme servisi onayı alındı.
+119,26,2,3,50,2025-07-18 00:10:00,Depo hazırlık süreci başladı.
+120,26,3,4,50,2025-07-18 07:10:00,Kargo firmasına çıkış yapıldı.
+121,26,4,5,50,2025-07-19 21:10:00,Müşteriye teslim edildi.
+122,27,,1,25,2025-07-19 22:45:00,Sipariş müşteri tarafından oluşturuldu.
+123,27,1,2,25,2025-07-19 22:47:00,Ödeme servisi onayı alındı.
+124,28,,1,45,2025-07-21 19:54:00,Sipariş müşteri tarafından oluşturuldu.
+125,28,1,2,45,2025-07-21 19:56:00,Ödeme servisi onayı alındı.
+126,28,2,3,45,2025-07-21 22:54:00,Depo hazırlık süreci başladı.
+127,28,3,4,45,2025-07-22 05:54:00,Kargo firmasına çıkış yapıldı.
+128,29,,1,22,2025-07-23 10:54:00,Sipariş müşteri tarafından oluşturuldu.
+129,29,1,2,22,2025-07-23 10:56:00,Ödeme servisi onayı alındı.
+130,29,2,3,22,2025-07-23 13:54:00,Depo hazırlık süreci başladı.
+131,29,3,4,22,2025-07-23 20:54:00,Kargo firmasına çıkış yapıldı.
+132,29,4,5,22,2025-07-25 10:54:00,Müşteriye teslim edildi.
+133,30,,1,35,2025-07-26 01:29:00,Sipariş müşteri tarafından oluşturuldu.
+134,30,1,2,35,2025-07-26 01:31:00,Ödeme servisi onayı alındı.
+135,30,2,6,35,2025-07-26 02:29:00,Müşteri talebiyle iptal edildi.
+136,31,,1,22,2025-07-26 10:31:00,Sipariş müşteri tarafından oluşturuldu.
+137,31,1,2,22,2025-07-26 10:33:00,Ödeme servisi onayı alındı.
+138,31,2,3,22,2025-07-26 13:31:00,Depo hazırlık süreci başladı.
+139,31,3,4,22,2025-07-26 20:31:00,Kargo firmasına çıkış yapıldı.
+140,31,4,5,22,2025-07-28 10:31:00,Müşteriye teslim edildi.
+141,32,,1,13,2025-07-28 12:15:00,Sipariş müşteri tarafından oluşturuldu.
+142,32,1,2,13,2025-07-28 12:17:00,Ödeme servisi onayı alındı.
+143,32,2,3,13,2025-07-28 15:15:00,Depo hazırlık süreci başladı.
+144,32,3,4,13,2025-07-28 22:15:00,Kargo firmasına çıkış yapıldı.
+145,32,4,5,13,2025-07-30 12:15:00,Müşteriye teslim edildi.
+146,33,,1,26,2025-07-31 08:15:00,Sipariş müşteri tarafından oluşturuldu.
+147,33,1,2,26,2025-07-31 08:17:00,Ödeme servisi onayı alındı.
+148,33,2,3,26,2025-07-31 11:15:00,Depo hazırlık süreci başladı.
+149,33,3,4,26,2025-07-31 18:15:00,Kargo firmasına çıkış yapıldı.
+150,33,4,5,26,2025-08-02 08:15:00,Müşteriye teslim edildi.
+151,34,,1,17,2025-08-01 17:07:00,Sipariş müşteri tarafından oluşturuldu.
+152,34,1,2,17,2025-08-01 17:09:00,Ödeme servisi onayı alındı.
+153,34,2,3,17,2025-08-01 20:07:00,Depo hazırlık süreci başladı.
+154,34,3,4,17,2025-08-02 03:07:00,Kargo firmasına çıkış yapıldı.
+155,34,4,5,17,2025-08-03 17:07:00,Müşteriye teslim edildi.
+156,35,,1,31,2025-08-03 18:46:00,Sipariş müşteri tarafından oluşturuldu.
+157,35,1,2,31,2025-08-03 18:48:00,Ödeme servisi onayı alındı.
+158,35,2,3,31,2025-08-03 21:46:00,Depo hazırlık süreci başladı.
+159,35,3,4,31,2025-08-04 04:46:00,Kargo firmasına çıkış yapıldı.
+160,36,,1,4,2025-08-05 03:18:00,Sipariş müşteri tarafından oluşturuldu.
+161,36,1,2,4,2025-08-05 03:20:00,Ödeme servisi onayı alındı.
+162,36,2,3,4,2025-08-05 06:18:00,Depo hazırlık süreci başladı.
+163,36,3,4,4,2025-08-05 13:18:00,Kargo firmasına çıkış yapıldı.
+164,36,4,5,4,2025-08-07 03:18:00,Müşteriye teslim edildi.
+165,36,5,7,4,2025-08-10 03:18:00,İade incelendi ve ücret iadesi onaylandı.
+166,37,,1,4,2025-08-06 18:55:00,Sipariş müşteri tarafından oluşturuldu.
+167,37,1,2,4,2025-08-06 18:57:00,Ödeme servisi onayı alındı.
+168,37,2,3,4,2025-08-06 21:55:00,Depo hazırlık süreci başladı.
+169,37,3,4,4,2025-08-07 04:55:00,Kargo firmasına çıkış yapıldı.
+170,37,4,5,4,2025-08-08 18:55:00,Müşteriye teslim edildi.
+171,38,,1,20,2025-08-08 12:15:00,Sipariş müşteri tarafından oluşturuldu.
+172,38,1,2,20,2025-08-08 12:17:00,Ödeme servisi onayı alındı.
+173,38,2,3,20,2025-08-08 15:15:00,Depo hazırlık süreci başladı.
+174,38,3,4,20,2025-08-08 22:15:00,Kargo firmasına çıkış yapıldı.
+175,38,4,5,20,2025-08-10 12:15:00,Müşteriye teslim edildi.
+176,39,,1,29,2025-08-10 19:55:00,Sipariş müşteri tarafından oluşturuldu.
+177,39,1,2,29,2025-08-10 19:57:00,Ödeme servisi onayı alındı.
+178,39,2,3,29,2025-08-10 22:55:00,Depo hazırlık süreci başladı.
+179,39,3,4,29,2025-08-11 05:55:00,Kargo firmasına çıkış yapıldı.
+180,39,4,5,29,2025-08-12 19:55:00,Müşteriye teslim edildi.
+181,40,,1,11,2025-08-12 17:11:00,Sipariş müşteri tarafından oluşturuldu.
+182,40,1,2,11,2025-08-12 17:13:00,Ödeme servisi onayı alındı.
+183,40,2,3,11,2025-08-12 20:11:00,Depo hazırlık süreci başladı.
+184,40,3,4,11,2025-08-13 03:11:00,Kargo firmasına çıkış yapıldı.
+185,40,4,5,11,2025-08-14 17:11:00,Müşteriye teslim edildi.
+186,41,,1,15,2025-08-13 19:45:00,Sipariş müşteri tarafından oluşturuldu.
+187,41,1,2,15,2025-08-13 19:47:00,Ödeme servisi onayı alındı.
+188,41,2,3,15,2025-08-13 22:45:00,Depo hazırlık süreci başladı.
+189,41,3,4,15,2025-08-14 05:45:00,Kargo firmasına çıkış yapıldı.
+190,41,4,5,15,2025-08-15 19:45:00,Müşteriye teslim edildi.
+191,42,,1,15,2025-08-16 06:09:00,Sipariş müşteri tarafından oluşturuldu.
+192,42,1,2,15,2025-08-16 06:11:00,Ödeme servisi onayı alındı.
+193,42,2,3,15,2025-08-16 09:09:00,Depo hazırlık süreci başladı.
+194,42,3,4,15,2025-08-16 16:09:00,Kargo firmasına çıkış yapıldı.
+195,43,,1,20,2025-08-18 08:25:00,Sipariş müşteri tarafından oluşturuldu.
+196,43,1,2,20,2025-08-18 08:27:00,Ödeme servisi onayı alındı.
+197,43,2,3,20,2025-08-18 11:25:00,Depo hazırlık süreci başladı.
+198,43,3,4,20,2025-08-18 18:25:00,Kargo firmasına çıkış yapıldı.
+199,43,4,5,20,2025-08-20 08:25:00,Müşteriye teslim edildi.
+200,44,,1,2,2025-08-19 12:14:00,Sipariş müşteri tarafından oluşturuldu.
+201,44,1,2,2,2025-08-19 12:16:00,Ödeme servisi onayı alındı.
+202,44,2,3,2,2025-08-19 15:14:00,Depo hazırlık süreci başladı.
+203,44,3,4,2,2025-08-19 22:14:00,Kargo firmasına çıkış yapıldı.
+204,44,4,5,2,2025-08-21 12:14:00,Müşteriye teslim edildi.
+205,45,,1,12,2025-08-22 04:27:00,Sipariş müşteri tarafından oluşturuldu.
+206,45,1,2,12,2025-08-22 04:29:00,Ödeme servisi onayı alındı.
+207,45,2,6,12,2025-08-22 05:27:00,Müşteri talebiyle iptal edildi.
+208,46,,1,27,2025-08-23 08:31:00,Sipariş müşteri tarafından oluşturuldu.
+209,46,1,2,27,2025-08-23 08:33:00,Ödeme servisi onayı alındı.
+210,46,2,3,27,2025-08-23 11:31:00,Depo hazırlık süreci başladı.
+211,46,3,4,27,2025-08-23 18:31:00,Kargo firmasına çıkış yapıldı.
+212,46,4,5,27,2025-08-25 08:31:00,Müşteriye teslim edildi.
+213,47,,1,50,2025-08-24 22:55:00,Sipariş müşteri tarafından oluşturuldu.
+214,47,1,2,50,2025-08-24 22:57:00,Ödeme servisi onayı alındı.
+215,47,2,3,50,2025-08-25 01:55:00,Depo hazırlık süreci başladı.
+216,47,3,4,50,2025-08-25 08:55:00,Kargo firmasına çıkış yapıldı.
+217,47,4,5,50,2025-08-26 22:55:00,Müşteriye teslim edildi.
+218,48,,1,24,2025-08-27 05:48:00,Sipariş müşteri tarafından oluşturuldu.
+219,48,1,2,24,2025-08-27 05:50:00,Ödeme servisi onayı alındı.
+220,48,2,3,24,2025-08-27 08:48:00,Depo hazırlık süreci başladı.
+221,48,3,4,24,2025-08-27 15:48:00,Kargo firmasına çıkış yapıldı.
+222,48,4,5,24,2025-08-29 05:48:00,Müşteriye teslim edildi.
+223,48,5,7,24,2025-09-01 05:48:00,İade incelendi ve ücret iadesi onaylandı.
+224,49,,1,20,2025-08-29 03:00:00,Sipariş müşteri tarafından oluşturuldu.
+225,49,1,2,20,2025-08-29 03:02:00,Ödeme servisi onayı alındı.
+226,49,2,3,20,2025-08-29 06:00:00,Depo hazırlık süreci başladı.
+227,49,3,4,20,2025-08-29 13:00:00,Kargo firmasına çıkış yapıldı.
+228,50,,1,31,2025-08-30 17:29:00,Sipariş müşteri tarafından oluşturuldu.
+229,50,1,2,31,2025-08-30 17:31:00,Ödeme servisi onayı alındı.
+230,50,2,3,31,2025-08-30 20:29:00,Depo hazırlık süreci başladı.
+231,50,3,4,31,2025-08-31 03:29:00,Kargo firmasına çıkış yapıldı.
+232,50,4,5,31,2025-09-01 17:29:00,Müşteriye teslim edildi.
+233,51,,1,27,2025-08-31 20:59:00,Sipariş müşteri tarafından oluşturuldu.
+234,51,1,2,27,2025-08-31 21:01:00,Ödeme servisi onayı alındı.
+235,51,2,3,27,2025-08-31 23:59:00,Depo hazırlık süreci başladı.
+236,51,3,4,27,2025-09-01 06:59:00,Kargo firmasına çıkış yapıldı.
+237,51,4,5,27,2025-09-02 20:59:00,Müşteriye teslim edildi.
+238,52,,1,23,2025-09-02 20:35:00,Sipariş müşteri tarafından oluşturuldu.
+239,52,1,2,23,2025-09-02 20:37:00,Ödeme servisi onayı alındı.
+240,52,2,3,23,2025-09-02 23:35:00,Depo hazırlık süreci başladı.
+241,52,3,4,23,2025-09-03 06:35:00,Kargo firmasına çıkış yapıldı.
+242,52,4,5,23,2025-09-04 20:35:00,Müşteriye teslim edildi.
+243,53,,1,25,2025-09-04 22:42:00,Sipariş müşteri tarafından oluşturuldu.
+244,53,1,2,25,2025-09-04 22:44:00,Ödeme servisi onayı alındı.
+245,53,2,3,25,2025-09-05 01:42:00,Depo hazırlık süreci başladı.
+246,53,3,4,25,2025-09-05 08:42:00,Kargo firmasına çıkış yapıldı.
+247,53,4,5,25,2025-09-06 22:42:00,Müşteriye teslim edildi.
+248,54,,1,29,2025-09-06 13:33:00,Sipariş müşteri tarafından oluşturuldu.
+249,54,1,2,29,2025-09-06 13:35:00,Ödeme servisi onayı alındı.
+250,55,,1,42,2025-09-08 12:54:00,Sipariş müşteri tarafından oluşturuldu.
+251,55,1,2,42,2025-09-08 12:56:00,Ödeme servisi onayı alındı.
+252,55,2,3,42,2025-09-08 15:54:00,Depo hazırlık süreci başladı.
+253,55,3,4,42,2025-09-08 22:54:00,Kargo firmasına çıkış yapıldı.
+254,55,4,5,42,2025-09-10 12:54:00,Müşteriye teslim edildi.
+255,56,,1,44,2025-09-09 19:14:00,Sipariş müşteri tarafından oluşturuldu.
+256,56,1,2,44,2025-09-09 19:16:00,Ödeme servisi onayı alındı.
+257,56,2,3,44,2025-09-09 22:14:00,Depo hazırlık süreci başladı.
+258,56,3,4,44,2025-09-10 05:14:00,Kargo firmasına çıkış yapıldı.
+259,57,,1,2,2025-09-11 11:20:00,Sipariş müşteri tarafından oluşturuldu.
+260,57,1,2,2,2025-09-11 11:22:00,Ödeme servisi onayı alındı.
+261,57,2,3,2,2025-09-11 14:20:00,Depo hazırlık süreci başladı.
+262,57,3,4,2,2025-09-11 21:20:00,Kargo firmasına çıkış yapıldı.
+263,57,4,5,2,2025-09-13 11:20:00,Müşteriye teslim edildi.
+264,58,,1,27,2025-09-14 04:43:00,Sipariş müşteri tarafından oluşturuldu.
+265,58,1,2,27,2025-09-14 04:45:00,Ödeme servisi onayı alındı.
+266,58,2,3,27,2025-09-14 07:43:00,Depo hazırlık süreci başladı.
+267,58,3,4,27,2025-09-14 14:43:00,Kargo firmasına çıkış yapıldı.
+268,58,4,5,27,2025-09-16 04:43:00,Müşteriye teslim edildi.
+269,59,,1,38,2025-09-15 14:14:00,Sipariş müşteri tarafından oluşturuldu.
+270,59,1,2,38,2025-09-15 14:16:00,Ödeme servisi onayı alındı.
+271,59,2,3,38,2025-09-15 17:14:00,Depo hazırlık süreci başladı.
+272,59,3,4,38,2025-09-16 00:14:00,Kargo firmasına çıkış yapıldı.
+273,59,4,5,38,2025-09-17 14:14:00,Müşteriye teslim edildi.
+274,60,,1,23,2025-09-18 04:19:00,Sipariş müşteri tarafından oluşturuldu.
+275,60,1,2,23,2025-09-18 04:21:00,Ödeme servisi onayı alındı.
+276,60,2,6,23,2025-09-18 05:19:00,Müşteri talebiyle iptal edildi.
+277,61,,1,37,2025-09-18 19:44:00,Sipariş müşteri tarafından oluşturuldu.
+278,61,1,2,37,2025-09-18 19:46:00,Ödeme servisi onayı alındı.
+279,61,2,3,37,2025-09-18 22:44:00,Depo hazırlık süreci başladı.
+280,61,3,4,37,2025-09-19 05:44:00,Kargo firmasına çıkış yapıldı.
+281,61,4,5,37,2025-09-20 19:44:00,Müşteriye teslim edildi.
+282,62,,1,19,2025-09-20 17:38:00,Sipariş müşteri tarafından oluşturuldu.
+283,62,1,2,19,2025-09-20 17:40:00,Ödeme servisi onayı alındı.
+284,62,2,3,19,2025-09-20 20:38:00,Depo hazırlık süreci başladı.
+285,62,3,4,19,2025-09-21 03:38:00,Kargo firmasına çıkış yapıldı.
+286,62,4,5,19,2025-09-22 17:38:00,Müşteriye teslim edildi.
+287,63,,1,42,2025-09-22 11:19:00,Sipariş müşteri tarafından oluşturuldu.
+288,63,1,2,42,2025-09-22 11:21:00,Ödeme servisi onayı alındı.
+289,64,,1,13,2025-09-24 14:50:00,Sipariş müşteri tarafından oluşturuldu.
+290,64,1,2,13,2025-09-24 14:52:00,Ödeme servisi onayı alındı.
+291,64,2,3,13,2025-09-24 17:50:00,Depo hazırlık süreci başladı.
+292,64,3,4,13,2025-09-25 00:50:00,Kargo firmasına çıkış yapıldı.
+293,64,4,5,13,2025-09-26 14:50:00,Müşteriye teslim edildi.
+294,65,,1,30,2025-09-26 12:09:00,Sipariş müşteri tarafından oluşturuldu.
+295,65,1,2,30,2025-09-26 12:11:00,Ödeme servisi onayı alındı.
+296,65,2,3,30,2025-09-26 15:09:00,Depo hazırlık süreci başladı.
+297,65,3,4,30,2025-09-26 22:09:00,Kargo firmasına çıkış yapıldı.
+298,65,4,5,30,2025-09-28 12:09:00,Müşteriye teslim edildi.
+299,66,,1,35,2025-09-27 13:29:00,Sipariş müşteri tarafından oluşturuldu.
+300,66,1,2,35,2025-09-27 13:31:00,Ödeme servisi onayı alındı.
+301,66,2,3,35,2025-09-27 16:29:00,Depo hazırlık süreci başladı.
+302,66,3,4,35,2025-09-27 23:29:00,Kargo firmasına çıkış yapıldı.
+303,66,4,5,35,2025-09-29 13:29:00,Müşteriye teslim edildi.
+304,67,,1,40,2025-09-30 03:20:00,Sipariş müşteri tarafından oluşturuldu.
+305,67,1,2,40,2025-09-30 03:22:00,Ödeme servisi onayı alındı.
+306,67,2,3,40,2025-09-30 06:20:00,Depo hazırlık süreci başladı.
+307,67,3,4,40,2025-09-30 13:20:00,Kargo firmasına çıkış yapıldı.
+308,67,4,5,40,2025-10-02 03:20:00,Müşteriye teslim edildi.
+309,68,,1,3,2025-10-01 11:19:00,Sipariş müşteri tarafından oluşturuldu.
+310,68,1,2,3,2025-10-01 11:21:00,Ödeme servisi onayı alındı.
+311,68,2,3,3,2025-10-01 14:19:00,Depo hazırlık süreci başladı.
+312,68,3,4,3,2025-10-01 21:19:00,Kargo firmasına çıkış yapıldı.
+313,68,4,5,3,2025-10-03 11:19:00,Müşteriye teslim edildi.
+314,69,,1,42,2025-10-03 13:53:00,Sipariş müşteri tarafından oluşturuldu.
+315,69,1,2,42,2025-10-03 13:55:00,Ödeme servisi onayı alındı.
+316,69,2,3,42,2025-10-03 16:53:00,Depo hazırlık süreci başladı.
+317,69,3,4,42,2025-10-03 23:53:00,Kargo firmasına çıkış yapıldı.
+318,69,4,5,42,2025-10-05 13:53:00,Müşteriye teslim edildi.
+319,70,,1,44,2025-10-05 21:34:00,Sipariş müşteri tarafından oluşturuldu.
+320,70,1,2,44,2025-10-05 21:36:00,Ödeme servisi onayı alındı.
+321,70,2,3,44,2025-10-06 00:34:00,Depo hazırlık süreci başladı.
+322,70,3,4,44,2025-10-06 07:34:00,Kargo firmasına çıkış yapıldı.
+323,71,,1,16,2025-10-06 14:50:00,Sipariş müşteri tarafından oluşturuldu.
+324,71,1,2,16,2025-10-06 14:52:00,Ödeme servisi onayı alındı.
+325,71,2,3,16,2025-10-06 17:50:00,Depo hazırlık süreci başladı.
+326,71,3,4,16,2025-10-07 00:50:00,Kargo firmasına çıkış yapıldı.
+327,71,4,5,16,2025-10-08 14:50:00,Müşteriye teslim edildi.
+328,72,,1,39,2025-10-08 10:17:00,Sipariş müşteri tarafından oluşturuldu.
+329,72,1,2,39,2025-10-08 10:19:00,Ödeme servisi onayı alındı.
+330,72,2,3,39,2025-10-08 13:17:00,Depo hazırlık süreci başladı.
+331,72,3,4,39,2025-10-08 20:17:00,Kargo firmasına çıkış yapıldı.
+332,72,4,5,39,2025-10-10 10:17:00,Müşteriye teslim edildi.
+333,72,5,7,39,2025-10-13 10:17:00,İade incelendi ve ücret iadesi onaylandı.
+334,73,,1,16,2025-10-11 04:20:00,Sipariş müşteri tarafından oluşturuldu.
+335,73,1,2,16,2025-10-11 04:22:00,Ödeme servisi onayı alındı.
+336,73,2,3,16,2025-10-11 07:20:00,Depo hazırlık süreci başladı.
+337,73,3,4,16,2025-10-11 14:20:00,Kargo firmasına çıkış yapıldı.
+338,73,4,5,16,2025-10-13 04:20:00,Müşteriye teslim edildi.
+339,74,,1,48,2025-10-12 12:30:00,Sipariş müşteri tarafından oluşturuldu.
+340,74,1,2,48,2025-10-12 12:32:00,Ödeme servisi onayı alındı.
+341,74,2,3,48,2025-10-12 15:30:00,Depo hazırlık süreci başladı.
+342,74,3,4,48,2025-10-12 22:30:00,Kargo firmasına çıkış yapıldı.
+343,74,4,5,48,2025-10-14 12:30:00,Müşteriye teslim edildi.
+344,75,,1,2,2025-10-14 11:30:00,Sipariş müşteri tarafından oluşturuldu.
+345,75,1,2,2,2025-10-14 11:32:00,Ödeme servisi onayı alındı.
+346,75,2,6,2,2025-10-14 12:30:00,Müşteri talebiyle iptal edildi.
+347,76,,1,9,2025-10-15 18:39:00,Sipariş müşteri tarafından oluşturuldu.
+348,76,1,2,9,2025-10-15 18:41:00,Ödeme servisi onayı alındı.
+349,76,2,3,9,2025-10-15 21:39:00,Depo hazırlık süreci başladı.
+350,76,3,4,9,2025-10-16 04:39:00,Kargo firmasına çıkış yapıldı.
+351,76,4,5,9,2025-10-17 18:39:00,Müşteriye teslim edildi.
+352,77,,1,8,2025-10-18 06:41:00,Sipariş müşteri tarafından oluşturuldu.
+353,77,1,2,8,2025-10-18 06:43:00,Ödeme servisi onayı alındı.
+354,77,2,3,8,2025-10-18 09:41:00,Depo hazırlık süreci başladı.
+355,77,3,4,8,2025-10-18 16:41:00,Kargo firmasına çıkış yapıldı.
+356,78,,1,43,2025-10-19 18:23:00,Sipariş müşteri tarafından oluşturuldu.
+357,78,1,2,43,2025-10-19 18:25:00,Ödeme servisi onayı alındı.
+358,78,2,3,43,2025-10-19 21:23:00,Depo hazırlık süreci başladı.
+359,78,3,4,43,2025-10-20 04:23:00,Kargo firmasına çıkış yapıldı.
+360,78,4,5,43,2025-10-21 18:23:00,Müşteriye teslim edildi.
+361,79,,1,48,2025-10-21 21:51:00,Sipariş müşteri tarafından oluşturuldu.
+362,79,1,2,48,2025-10-21 21:53:00,Ödeme servisi onayı alındı.
+363,79,2,3,48,2025-10-22 00:51:00,Depo hazırlık süreci başladı.
+364,79,3,4,48,2025-10-22 07:51:00,Kargo firmasına çıkış yapıldı.
+365,79,4,5,48,2025-10-23 21:51:00,Müşteriye teslim edildi.
+366,80,,1,43,2025-10-23 23:55:00,Sipariş müşteri tarafından oluşturuldu.
+367,80,1,2,43,2025-10-23 23:57:00,Ödeme servisi onayı alındı.
+368,80,2,3,43,2025-10-24 02:55:00,Depo hazırlık süreci başladı.
+369,80,3,4,43,2025-10-24 09:55:00,Kargo firmasına çıkış yapıldı.
+370,80,4,5,43,2025-10-25 23:55:00,Müşteriye teslim edildi.
+371,81,,1,14,2025-10-24 14:42:00,Sipariş müşteri tarafından oluşturuldu.
+372,81,1,2,14,2025-10-24 14:44:00,Ödeme servisi onayı alındı.
+373,82,,1,36,2025-10-27 05:39:00,Sipariş müşteri tarafından oluşturuldu.
+374,82,1,2,36,2025-10-27 05:41:00,Ödeme servisi onayı alındı.
+375,82,2,3,36,2025-10-27 08:39:00,Depo hazırlık süreci başladı.
+376,82,3,4,36,2025-10-27 15:39:00,Kargo firmasına çıkış yapıldı.
+377,82,4,5,36,2025-10-29 05:39:00,Müşteriye teslim edildi.
+378,83,,1,45,2025-10-28 19:58:00,Sipariş müşteri tarafından oluşturuldu.
+379,83,1,2,45,2025-10-28 20:00:00,Ödeme servisi onayı alındı.
+380,83,2,3,45,2025-10-28 22:58:00,Depo hazırlık süreci başladı.
+381,83,3,4,45,2025-10-29 05:58:00,Kargo firmasına çıkış yapıldı.
+382,83,4,5,45,2025-10-30 19:58:00,Müşteriye teslim edildi.
+383,84,,1,2,2025-10-30 12:47:00,Sipariş müşteri tarafından oluşturuldu.
+384,84,1,2,2,2025-10-30 12:49:00,Ödeme servisi onayı alındı.
+385,84,2,3,2,2025-10-30 15:47:00,Depo hazırlık süreci başladı.
+386,84,3,4,2,2025-10-30 22:47:00,Kargo firmasına çıkış yapıldı.
+387,84,4,5,2,2025-11-01 12:47:00,Müşteriye teslim edildi.
+388,84,5,7,2,2025-11-04 12:47:00,İade incelendi ve ücret iadesi onaylandı.
+389,85,,1,10,2025-11-01 15:48:00,Sipariş müşteri tarafından oluşturuldu.
+390,85,1,2,10,2025-11-01 15:50:00,Ödeme servisi onayı alındı.
+391,85,2,3,10,2025-11-01 18:48:00,Depo hazırlık süreci başladı.
+392,85,3,4,10,2025-11-02 01:48:00,Kargo firmasına çıkış yapıldı.
+393,85,4,5,10,2025-11-03 15:48:00,Müşteriye teslim edildi.
+394,86,,1,29,2025-11-02 23:17:00,Sipariş müşteri tarafından oluşturuldu.
+395,86,1,2,29,2025-11-02 23:19:00,Ödeme servisi onayı alındı.
+396,86,2,3,29,2025-11-03 02:17:00,Depo hazırlık süreci başladı.
+397,86,3,4,29,2025-11-03 09:17:00,Kargo firmasına çıkış yapıldı.
+398,86,4,5,29,2025-11-04 23:17:00,Müşteriye teslim edildi.
+399,87,,1,20,2025-11-04 11:14:00,Sipariş müşteri tarafından oluşturuldu.
+400,87,1,2,20,2025-11-04 11:16:00,Ödeme servisi onayı alındı.
+401,87,2,3,20,2025-11-04 14:14:00,Depo hazırlık süreci başladı.
+402,87,3,4,20,2025-11-04 21:14:00,Kargo firmasına çıkış yapıldı.
+403,87,4,5,20,2025-11-06 11:14:00,Müşteriye teslim edildi.
+404,88,,1,48,2025-11-06 23:11:00,Sipariş müşteri tarafından oluşturuldu.
+405,88,1,2,48,2025-11-06 23:13:00,Ödeme servisi onayı alındı.
+406,88,2,3,48,2025-11-07 02:11:00,Depo hazırlık süreci başladı.
+407,88,3,4,48,2025-11-07 09:11:00,Kargo firmasına çıkış yapıldı.
+408,88,4,5,48,2025-11-08 23:11:00,Müşteriye teslim edildi.
+409,89,,1,30,2025-11-08 12:55:00,Sipariş müşteri tarafından oluşturuldu.
+410,89,1,2,30,2025-11-08 12:57:00,Ödeme servisi onayı alındı.
+411,89,2,3,30,2025-11-08 15:55:00,Depo hazırlık süreci başladı.
+412,89,3,4,30,2025-11-08 22:55:00,Kargo firmasına çıkış yapıldı.
+413,89,4,5,30,2025-11-10 12:55:00,Müşteriye teslim edildi.
+414,90,,1,21,2025-11-10 15:51:00,Sipariş müşteri tarafından oluşturuldu.
+415,90,1,2,21,2025-11-10 15:53:00,Ödeme servisi onayı alındı.
+416,90,2,6,21,2025-11-10 16:51:00,Müşteri talebiyle iptal edildi.
+417,91,,1,20,2025-11-11 20:14:00,Sipariş müşteri tarafından oluşturuldu.
+418,91,1,2,20,2025-11-11 20:16:00,Ödeme servisi onayı alındı.
+419,91,2,3,20,2025-11-11 23:14:00,Depo hazırlık süreci başladı.
+420,91,3,4,20,2025-11-12 06:14:00,Kargo firmasına çıkış yapıldı.
+421,92,,1,42,2025-11-13 14:15:00,Sipariş müşteri tarafından oluşturuldu.
+422,92,1,2,42,2025-11-13 14:17:00,Ödeme servisi onayı alındı.
+423,92,2,3,42,2025-11-13 17:15:00,Depo hazırlık süreci başladı.
+424,92,3,4,42,2025-11-14 00:15:00,Kargo firmasına çıkış yapıldı.
+425,92,4,5,42,2025-11-15 14:15:00,Müşteriye teslim edildi.
+426,93,,1,42,2025-11-15 12:11:00,Sipariş müşteri tarafından oluşturuldu.
+427,93,1,2,42,2025-11-15 12:13:00,Ödeme servisi onayı alındı.
+428,93,2,3,42,2025-11-15 15:11:00,Depo hazırlık süreci başladı.
+429,93,3,4,42,2025-11-15 22:11:00,Kargo firmasına çıkış yapıldı.
+430,93,4,5,42,2025-11-17 12:11:00,Müşteriye teslim edildi.
+431,94,,1,5,2025-11-18 01:28:00,Sipariş müşteri tarafından oluşturuldu.
+432,94,1,2,5,2025-11-18 01:30:00,Ödeme servisi onayı alındı.
+433,94,2,3,5,2025-11-18 04:28:00,Depo hazırlık süreci başladı.
+434,94,3,4,5,2025-11-18 11:28:00,Kargo firmasına çıkış yapıldı.
+435,94,4,5,5,2025-11-20 01:28:00,Müşteriye teslim edildi.
+436,95,,1,24,2025-11-19 19:04:00,Sipariş müşteri tarafından oluşturuldu.
+437,95,1,2,24,2025-11-19 19:06:00,Ödeme servisi onayı alındı.
+438,95,2,3,24,2025-11-19 22:04:00,Depo hazırlık süreci başladı.
+439,95,3,4,24,2025-11-20 05:04:00,Kargo firmasına çıkış yapıldı.
+440,95,4,5,24,2025-11-21 19:04:00,Müşteriye teslim edildi.
+441,96,,1,37,2025-11-21 06:12:00,Sipariş müşteri tarafından oluşturuldu.
+442,96,1,2,37,2025-11-21 06:14:00,Ödeme servisi onayı alındı.
+443,96,2,3,37,2025-11-21 09:12:00,Depo hazırlık süreci başladı.
+444,96,3,4,37,2025-11-21 16:12:00,Kargo firmasına çıkış yapıldı.
+445,96,4,5,37,2025-11-23 06:12:00,Müşteriye teslim edildi.
+446,96,5,7,37,2025-11-26 06:12:00,İade incelendi ve ücret iadesi onaylandı.
+447,97,,1,29,2025-11-23 00:33:00,Sipariş müşteri tarafından oluşturuldu.
+448,97,1,2,29,2025-11-23 00:35:00,Ödeme servisi onayı alındı.
+449,97,2,3,29,2025-11-23 03:33:00,Depo hazırlık süreci başladı.
+450,97,3,4,29,2025-11-23 10:33:00,Kargo firmasına çıkış yapıldı.
+451,97,4,5,29,2025-11-25 00:33:00,Müşteriye teslim edildi.
+452,98,,1,42,2025-11-24 20:04:00,Sipariş müşteri tarafından oluşturuldu.
+453,98,1,2,42,2025-11-24 20:06:00,Ödeme servisi onayı alındı.
+454,98,2,3,42,2025-11-24 23:04:00,Depo hazırlık süreci başladı.
+455,98,3,4,42,2025-11-25 06:04:00,Kargo firmasına çıkış yapıldı.
+456,99,,1,10,2025-11-26 21:19:00,Sipariş müşteri tarafından oluşturuldu.
+457,99,1,2,10,2025-11-26 21:21:00,Ödeme servisi onayı alındı.
+458,100,,1,43,2025-11-28 23:32:00,Sipariş müşteri tarafından oluşturuldu.
+459,100,1,2,43,2025-11-28 23:34:00,Ödeme servisi onayı alındı.
+460,100,2,3,43,2025-11-29 02:32:00,Depo hazırlık süreci başladı.
+461,100,3,4,43,2025-11-29 09:32:00,Kargo firmasına çıkış yapıldı.
+462,100,4,5,43,2025-11-30 23:32:00,Müşteriye teslim edildi.
+463,101,,1,9,2025-11-29 14:04:00,Sipariş müşteri tarafından oluşturuldu.
+464,101,1,2,9,2025-11-29 14:06:00,Ödeme servisi onayı alındı.
+465,101,2,3,9,2025-11-29 17:04:00,Depo hazırlık süreci başladı.
+466,101,3,4,9,2025-11-30 00:04:00,Kargo firmasına çıkış yapıldı.
+467,101,4,5,9,2025-12-01 14:04:00,Müşteriye teslim edildi.
+468,102,,1,10,2025-12-01 15:11:00,Sipariş müşteri tarafından oluşturuldu.
+469,102,1,2,10,2025-12-01 15:13:00,Ödeme servisi onayı alındı.
+470,102,2,3,10,2025-12-01 18:11:00,Depo hazırlık süreci başladı.
+471,102,3,4,10,2025-12-02 01:11:00,Kargo firmasına çıkış yapıldı.
+472,102,4,5,10,2025-12-03 15:11:00,Müşteriye teslim edildi.
+473,103,,1,49,2025-12-04 00:14:00,Sipariş müşteri tarafından oluşturuldu.
+474,103,1,2,49,2025-12-04 00:16:00,Ödeme servisi onayı alındı.
+475,103,2,3,49,2025-12-04 03:14:00,Depo hazırlık süreci başladı.
+476,103,3,4,49,2025-12-04 10:14:00,Kargo firmasına çıkış yapıldı.
+477,103,4,5,49,2025-12-06 00:14:00,Müşteriye teslim edildi.
+478,104,,1,50,2025-12-05 22:32:00,Sipariş müşteri tarafından oluşturuldu.
+479,104,1,2,50,2025-12-05 22:34:00,Ödeme servisi onayı alındı.
+480,104,2,3,50,2025-12-06 01:32:00,Depo hazırlık süreci başladı.
+481,104,3,4,50,2025-12-06 08:32:00,Kargo firmasına çıkış yapıldı.
+482,104,4,5,50,2025-12-07 22:32:00,Müşteriye teslim edildi.
+483,105,,1,34,2025-12-07 13:18:00,Sipariş müşteri tarafından oluşturuldu.
+484,105,1,2,34,2025-12-07 13:20:00,Ödeme servisi onayı alındı.
+485,105,2,6,34,2025-12-07 14:18:00,Müşteri talebiyle iptal edildi.
+486,106,,1,6,2025-12-08 17:52:00,Sipariş müşteri tarafından oluşturuldu.
+487,106,1,2,6,2025-12-08 17:54:00,Ödeme servisi onayı alındı.
+488,106,2,3,6,2025-12-08 20:52:00,Depo hazırlık süreci başladı.
+489,106,3,4,6,2025-12-09 03:52:00,Kargo firmasına çıkış yapıldı.
+490,106,4,5,6,2025-12-10 17:52:00,Müşteriye teslim edildi.
+491,107,,1,21,2025-12-10 13:53:00,Sipariş müşteri tarafından oluşturuldu.
+492,107,1,2,21,2025-12-10 13:55:00,Ödeme servisi onayı alındı.
+493,107,2,3,21,2025-12-10 16:53:00,Depo hazırlık süreci başladı.
+494,107,3,4,21,2025-12-10 23:53:00,Kargo firmasına çıkış yapıldı.
+495,107,4,5,21,2025-12-12 13:53:00,Müşteriye teslim edildi.
+496,108,,1,1,2025-12-12 12:01:00,Sipariş müşteri tarafından oluşturuldu.
+497,108,1,2,1,2025-12-12 12:03:00,Ödeme servisi onayı alındı.
+498,108,2,3,1,2025-12-12 15:01:00,Depo hazırlık süreci başladı.
+499,108,3,4,1,2025-12-12 22:01:00,Kargo firmasına çıkış yapıldı.
+500,108,4,5,1,2025-12-14 12:01:00,Müşteriye teslim edildi.
+501,108,5,7,1,2025-12-17 12:01:00,İade incelendi ve ücret iadesi onaylandı.
+502,109,,1,16,2025-12-14 23:40:00,Sipariş müşteri tarafından oluşturuldu.
+503,109,1,2,16,2025-12-14 23:42:00,Ödeme servisi onayı alındı.
+504,109,2,3,16,2025-12-15 02:40:00,Depo hazırlık süreci başladı.
+505,109,3,4,16,2025-12-15 09:40:00,Kargo firmasına çıkış yapıldı.
+506,109,4,5,16,2025-12-16 23:40:00,Müşteriye teslim edildi.
+507,110,,1,40,2025-12-16 21:15:00,Sipariş müşteri tarafından oluşturuldu.
+508,110,1,2,40,2025-12-16 21:17:00,Ödeme servisi onayı alındı.
+509,110,2,3,40,2025-12-17 00:15:00,Depo hazırlık süreci başladı.
+510,110,3,4,40,2025-12-17 07:15:00,Kargo firmasına çıkış yapıldı.
+511,110,4,5,40,2025-12-18 21:15:00,Müşteriye teslim edildi.
+512,111,,1,25,2025-12-17 21:16:00,Sipariş müşteri tarafından oluşturuldu.
+513,111,1,2,25,2025-12-17 21:18:00,Ödeme servisi onayı alındı.
+514,111,2,3,25,2025-12-18 00:16:00,Depo hazırlık süreci başladı.
+515,111,3,4,25,2025-12-18 07:16:00,Kargo firmasına çıkış yapıldı.
+516,111,4,5,25,2025-12-19 21:16:00,Müşteriye teslim edildi.
+517,112,,1,48,2025-12-19 20:08:00,Sipariş müşteri tarafından oluşturuldu.
+518,112,1,2,48,2025-12-19 20:10:00,Ödeme servisi onayı alındı.
+519,112,2,3,48,2025-12-19 23:08:00,Depo hazırlık süreci başladı.
+520,112,3,4,48,2025-12-20 06:08:00,Kargo firmasına çıkış yapıldı.
+521,113,,1,9,2025-12-21 12:45:00,Sipariş müşteri tarafından oluşturuldu.
+522,113,1,2,9,2025-12-21 12:47:00,Ödeme servisi onayı alındı.
+523,113,2,3,9,2025-12-21 15:45:00,Depo hazırlık süreci başladı.
+524,113,3,4,9,2025-12-21 22:45:00,Kargo firmasına çıkış yapıldı.
+525,113,4,5,9,2025-12-23 12:45:00,Müşteriye teslim edildi.
+526,114,,1,49,2025-12-24 06:12:00,Sipariş müşteri tarafından oluşturuldu.
+527,114,1,2,49,2025-12-24 06:14:00,Ödeme servisi onayı alındı.
+528,114,2,3,49,2025-12-24 09:12:00,Depo hazırlık süreci başladı.
+529,114,3,4,49,2025-12-24 16:12:00,Kargo firmasına çıkış yapıldı.
+530,114,4,5,49,2025-12-26 06:12:00,Müşteriye teslim edildi.
+531,115,,1,25,2025-12-25 20:11:00,Sipariş müşteri tarafından oluşturuldu.
+532,115,1,2,25,2025-12-25 20:13:00,Ödeme servisi onayı alındı.
+533,115,2,3,25,2025-12-25 23:11:00,Depo hazırlık süreci başladı.
+534,115,3,4,25,2025-12-26 06:11:00,Kargo firmasına çıkış yapıldı.
+535,115,4,5,25,2025-12-27 20:11:00,Müşteriye teslim edildi.
+536,116,,1,21,2025-12-26 13:05:00,Sipariş müşteri tarafından oluşturuldu.
+537,116,1,2,21,2025-12-26 13:07:00,Ödeme servisi onayı alındı.
+538,116,2,3,21,2025-12-26 16:05:00,Depo hazırlık süreci başladı.
+539,116,3,4,21,2025-12-26 23:05:00,Kargo firmasına çıkış yapıldı.
+540,116,4,5,21,2025-12-28 13:05:00,Müşteriye teslim edildi.
+541,117,,1,3,2025-12-28 21:39:00,Sipariş müşteri tarafından oluşturuldu.
+542,117,1,2,3,2025-12-28 21:41:00,Ödeme servisi onayı alındı.
+543,118,,1,2,2025-12-30 14:54:00,Sipariş müşteri tarafından oluşturuldu.
+544,118,1,2,2,2025-12-30 14:56:00,Ödeme servisi onayı alındı.
+545,118,2,3,2,2025-12-30 17:54:00,Depo hazırlık süreci başladı.
+546,118,3,4,2,2025-12-31 00:54:00,Kargo firmasına çıkış yapıldı.
+547,118,4,5,2,2026-01-01 14:54:00,Müşteriye teslim edildi.
+548,119,,1,24,2026-01-01 21:28:00,Sipariş müşteri tarafından oluşturuldu.
+549,119,1,2,24,2026-01-01 21:30:00,Ödeme servisi onayı alındı.
+550,119,2,3,24,2026-01-02 00:28:00,Depo hazırlık süreci başladı.
+551,119,3,4,24,2026-01-02 07:28:00,Kargo firmasına çıkış yapıldı.
+552,120,,1,16,2026-01-03 13:01:00,Sipariş müşteri tarafından oluşturuldu.
+553,120,1,2,16,2026-01-03 13:03:00,Ödeme servisi onayı alındı.
+554,120,2,6,16,2026-01-03 14:01:00,Müşteri talebiyle iptal edildi.
+555,121,,1,46,2026-01-05 00:13:00,Sipariş müşteri tarafından oluşturuldu.
+556,121,1,2,46,2026-01-05 00:15:00,Ödeme servisi onayı alındı.
+557,121,2,3,46,2026-01-05 03:13:00,Depo hazırlık süreci başladı.
+558,121,3,4,46,2026-01-05 10:13:00,Kargo firmasına çıkış yapıldı.
+559,121,4,5,46,2026-01-07 00:13:00,Müşteriye teslim edildi.
+560,122,,1,46,2026-01-06 12:35:00,Sipariş müşteri tarafından oluşturuldu.
+561,122,1,2,46,2026-01-06 12:37:00,Ödeme servisi onayı alındı.
+562,122,2,3,46,2026-01-06 15:35:00,Depo hazırlık süreci başladı.
+563,122,3,4,46,2026-01-06 22:35:00,Kargo firmasına çıkış yapıldı.
+564,122,4,5,46,2026-01-08 12:35:00,Müşteriye teslim edildi.
+565,123,,1,32,2026-01-08 10:23:00,Sipariş müşteri tarafından oluşturuldu.
+566,123,1,2,32,2026-01-08 10:25:00,Ödeme servisi onayı alındı.
+567,123,2,3,32,2026-01-08 13:23:00,Depo hazırlık süreci başladı.
+568,123,3,4,32,2026-01-08 20:23:00,Kargo firmasına çıkış yapıldı.
+569,123,4,5,32,2026-01-10 10:23:00,Müşteriye teslim edildi.
+570,124,,1,50,2026-01-10 23:52:00,Sipariş müşteri tarafından oluşturuldu.
+571,124,1,2,50,2026-01-10 23:54:00,Ödeme servisi onayı alındı.
+572,124,2,3,50,2026-01-11 02:52:00,Depo hazırlık süreci başladı.
+573,124,3,4,50,2026-01-11 09:52:00,Kargo firmasına çıkış yapıldı.
+574,124,4,5,50,2026-01-12 23:52:00,Müşteriye teslim edildi.
+575,125,,1,34,2026-01-12 21:08:00,Sipariş müşteri tarafından oluşturuldu.
+576,125,1,2,34,2026-01-12 21:10:00,Ödeme servisi onayı alındı.
+577,125,2,3,34,2026-01-13 00:08:00,Depo hazırlık süreci başladı.
+578,125,3,4,34,2026-01-13 07:08:00,Kargo firmasına çıkış yapıldı.
+579,125,4,5,34,2026-01-14 21:08:00,Müşteriye teslim edildi.
+580,126,,1,11,2026-01-13 20:59:00,Sipariş müşteri tarafından oluşturuldu.
+581,126,1,2,11,2026-01-13 21:01:00,Ödeme servisi onayı alındı.
+582,127,,1,41,2026-01-16 03:17:00,Sipariş müşteri tarafından oluşturuldu.
+583,127,1,2,41,2026-01-16 03:19:00,Ödeme servisi onayı alındı.
+584,127,2,3,41,2026-01-16 06:17:00,Depo hazırlık süreci başladı.
+585,127,3,4,41,2026-01-16 13:17:00,Kargo firmasına çıkış yapıldı.
+586,127,4,5,41,2026-01-18 03:17:00,Müşteriye teslim edildi.
+587,128,,1,40,2026-01-18 05:21:00,Sipariş müşteri tarafından oluşturuldu.
+588,128,1,2,40,2026-01-18 05:23:00,Ödeme servisi onayı alındı.
+589,128,2,3,40,2026-01-18 08:21:00,Depo hazırlık süreci başladı.
+590,128,3,4,40,2026-01-18 15:21:00,Kargo firmasına çıkış yapıldı.
+591,128,4,5,40,2026-01-20 05:21:00,Müşteriye teslim edildi.
+592,129,,1,27,2026-01-20 05:40:00,Sipariş müşteri tarafından oluşturuldu.
+593,129,1,2,27,2026-01-20 05:42:00,Ödeme servisi onayı alındı.
+594,129,2,3,27,2026-01-20 08:40:00,Depo hazırlık süreci başladı.
+595,129,3,4,27,2026-01-20 15:40:00,Kargo firmasına çıkış yapıldı.
+596,129,4,5,27,2026-01-22 05:40:00,Müşteriye teslim edildi.
+597,130,,1,44,2026-01-21 22:19:00,Sipariş müşteri tarafından oluşturuldu.
+598,130,1,2,44,2026-01-21 22:21:00,Ödeme servisi onayı alındı.
+599,130,2,3,44,2026-01-22 01:19:00,Depo hazırlık süreci başladı.
+600,130,3,4,44,2026-01-22 08:19:00,Kargo firmasına çıkış yapıldı.
+601,130,4,5,44,2026-01-23 22:19:00,Müşteriye teslim edildi.
+602,131,,1,21,2026-01-22 21:25:00,Sipariş müşteri tarafından oluşturuldu.
+603,131,1,2,21,2026-01-22 21:27:00,Ödeme servisi onayı alındı.
+604,131,2,3,21,2026-01-23 00:25:00,Depo hazırlık süreci başladı.
+605,131,3,4,21,2026-01-23 07:25:00,Kargo firmasına çıkış yapıldı.
+606,131,4,5,21,2026-01-24 21:25:00,Müşteriye teslim edildi.
+607,132,,1,29,2026-01-24 17:09:00,Sipariş müşteri tarafından oluşturuldu.
+608,132,1,2,29,2026-01-24 17:11:00,Ödeme servisi onayı alındı.
+609,132,2,3,29,2026-01-24 20:09:00,Depo hazırlık süreci başladı.
+610,132,3,4,29,2026-01-25 03:09:00,Kargo firmasına çıkış yapıldı.
+611,132,4,5,29,2026-01-26 17:09:00,Müşteriye teslim edildi.
+612,132,5,7,29,2026-01-29 17:09:00,İade incelendi ve ücret iadesi onaylandı.
+613,133,,1,11,2026-01-27 01:32:00,Sipariş müşteri tarafından oluşturuldu.
+614,133,1,2,11,2026-01-27 01:34:00,Ödeme servisi onayı alındı.
+615,133,2,3,11,2026-01-27 04:32:00,Depo hazırlık süreci başladı.
+616,133,3,4,11,2026-01-27 11:32:00,Kargo firmasına çıkış yapıldı.
+617,134,,1,32,2026-01-29 05:56:00,Sipariş müşteri tarafından oluşturuldu.
+618,134,1,2,32,2026-01-29 05:58:00,Ödeme servisi onayı alındı.
+619,134,2,3,32,2026-01-29 08:56:00,Depo hazırlık süreci başladı.
+620,134,3,4,32,2026-01-29 15:56:00,Kargo firmasına çıkış yapıldı.
+621,134,4,5,32,2026-01-31 05:56:00,Müşteriye teslim edildi.
+622,135,,1,4,2026-01-31 04:35:00,Sipariş müşteri tarafından oluşturuldu.
+623,135,1,2,4,2026-01-31 04:37:00,Ödeme servisi onayı alındı.
+624,135,2,6,4,2026-01-31 05:35:00,Müşteri talebiyle iptal edildi.
+625,136,,1,40,2026-02-01 07:39:00,Sipariş müşteri tarafından oluşturuldu.
+626,136,1,2,40,2026-02-01 07:41:00,Ödeme servisi onayı alındı.
+627,136,2,3,40,2026-02-01 10:39:00,Depo hazırlık süreci başladı.
+628,136,3,4,40,2026-02-01 17:39:00,Kargo firmasına çıkış yapıldı.
+629,136,4,5,40,2026-02-03 07:39:00,Müşteriye teslim edildi.
+630,137,,1,24,2026-02-02 14:12:00,Sipariş müşteri tarafından oluşturuldu.
+631,137,1,2,24,2026-02-02 14:14:00,Ödeme servisi onayı alındı.
+632,137,2,3,24,2026-02-02 17:12:00,Depo hazırlık süreci başladı.
+633,137,3,4,24,2026-02-03 00:12:00,Kargo firmasına çıkış yapıldı.
+634,137,4,5,24,2026-02-04 14:12:00,Müşteriye teslim edildi.
+635,138,,1,33,2026-02-04 14:20:00,Sipariş müşteri tarafından oluşturuldu.
+636,138,1,2,33,2026-02-04 14:22:00,Ödeme servisi onayı alındı.
+637,138,2,3,33,2026-02-04 17:20:00,Depo hazırlık süreci başladı.
+638,138,3,4,33,2026-02-05 00:20:00,Kargo firmasına çıkış yapıldı.
+639,138,4,5,33,2026-02-06 14:20:00,Müşteriye teslim edildi.
+640,139,,1,2,2026-02-06 21:21:00,Sipariş müşteri tarafından oluşturuldu.
+641,139,1,2,2,2026-02-06 21:23:00,Ödeme servisi onayı alındı.
+642,139,2,3,2,2026-02-07 00:21:00,Depo hazırlık süreci başladı.
+643,139,3,4,2,2026-02-07 07:21:00,Kargo firmasına çıkış yapıldı.
+644,139,4,5,2,2026-02-08 21:21:00,Müşteriye teslim edildi.
+645,140,,1,42,2026-02-09 04:36:00,Sipariş müşteri tarafından oluşturuldu.
+646,140,1,2,42,2026-02-09 04:38:00,Ödeme servisi onayı alındı.
+647,140,2,3,42,2026-02-09 07:36:00,Depo hazırlık süreci başladı.
+648,140,3,4,42,2026-02-09 14:36:00,Kargo firmasına çıkış yapıldı.
+649,141,,1,45,2026-02-09 13:12:00,Sipariş müşteri tarafından oluşturuldu.
+650,141,1,2,45,2026-02-09 13:14:00,Ödeme servisi onayı alındı.
+651,141,2,3,45,2026-02-09 16:12:00,Depo hazırlık süreci başladı.
+652,141,3,4,45,2026-02-09 23:12:00,Kargo firmasına çıkış yapıldı.
+653,141,4,5,45,2026-02-11 13:12:00,Müşteriye teslim edildi.
+654,142,,1,27,2026-02-12 02:49:00,Sipariş müşteri tarafından oluşturuldu.
+655,142,1,2,27,2026-02-12 02:51:00,Ödeme servisi onayı alındı.
+656,142,2,3,27,2026-02-12 05:49:00,Depo hazırlık süreci başladı.
+657,142,3,4,27,2026-02-12 12:49:00,Kargo firmasına çıkış yapıldı.
+658,142,4,5,27,2026-02-14 02:49:00,Müşteriye teslim edildi.
+659,143,,1,30,2026-02-14 03:21:00,Sipariş müşteri tarafından oluşturuldu.
+660,143,1,2,30,2026-02-14 03:23:00,Ödeme servisi onayı alındı.
+661,143,2,3,30,2026-02-14 06:21:00,Depo hazırlık süreci başladı.
+662,143,3,4,30,2026-02-14 13:21:00,Kargo firmasına çıkış yapıldı.
+663,143,4,5,30,2026-02-16 03:21:00,Müşteriye teslim edildi.
+664,144,,1,46,2026-02-15 16:44:00,Sipariş müşteri tarafından oluşturuldu.
+665,144,1,2,46,2026-02-15 16:46:00,Ödeme servisi onayı alındı.
+666,144,2,3,46,2026-02-15 19:44:00,Depo hazırlık süreci başladı.
+667,144,3,4,46,2026-02-16 02:44:00,Kargo firmasına çıkış yapıldı.
+668,144,4,5,46,2026-02-17 16:44:00,Müşteriye teslim edildi.
+669,144,5,7,46,2026-02-20 16:44:00,İade incelendi ve ücret iadesi onaylandı.
+670,145,,1,19,2026-02-18 08:05:00,Sipariş müşteri tarafından oluşturuldu.
+671,145,1,2,19,2026-02-18 08:07:00,Ödeme servisi onayı alındı.
+672,145,2,3,19,2026-02-18 11:05:00,Depo hazırlık süreci başladı.
+673,145,3,4,19,2026-02-18 18:05:00,Kargo firmasına çıkış yapıldı.
+674,145,4,5,19,2026-02-20 08:05:00,Müşteriye teslim edildi.
+675,146,,1,40,2026-02-19 04:15:00,Sipariş müşteri tarafından oluşturuldu.
+676,146,1,2,40,2026-02-19 04:17:00,Ödeme servisi onayı alındı.
+677,146,2,3,40,2026-02-19 07:15:00,Depo hazırlık süreci başladı.
+678,146,3,4,40,2026-02-19 14:15:00,Kargo firmasına çıkış yapıldı.
+679,146,4,5,40,2026-02-21 04:15:00,Müşteriye teslim edildi.
+680,147,,1,22,2026-02-21 08:30:00,Sipariş müşteri tarafından oluşturuldu.
+681,147,1,2,22,2026-02-21 08:32:00,Ödeme servisi onayı alındı.
+682,147,2,3,22,2026-02-21 11:30:00,Depo hazırlık süreci başladı.
+683,147,3,4,22,2026-02-21 18:30:00,Kargo firmasına çıkış yapıldı.
+684,148,,1,13,2026-02-22 19:20:00,Sipariş müşteri tarafından oluşturuldu.
+685,148,1,2,13,2026-02-22 19:22:00,Ödeme servisi onayı alındı.
+686,148,2,3,13,2026-02-22 22:20:00,Depo hazırlık süreci başladı.
+687,148,3,4,13,2026-02-23 05:20:00,Kargo firmasına çıkış yapıldı.
+688,148,4,5,13,2026-02-24 19:20:00,Müşteriye teslim edildi.
+689,149,,1,12,2026-02-24 11:53:00,Sipariş müşteri tarafından oluşturuldu.
+690,149,1,2,12,2026-02-24 11:55:00,Ödeme servisi onayı alındı.
+691,149,2,3,12,2026-02-24 14:53:00,Depo hazırlık süreci başladı.
+692,149,3,4,12,2026-02-24 21:53:00,Kargo firmasına çıkış yapıldı.
+693,149,4,5,12,2026-02-26 11:53:00,Müşteriye teslim edildi.
+694,150,,1,42,2026-02-27 03:33:00,Sipariş müşteri tarafından oluşturuldu.
+695,150,1,2,42,2026-02-27 03:35:00,Ödeme servisi onayı alındı.
+696,150,2,6,42,2026-02-27 04:33:00,Müşteri talebiyle iptal edildi.
+697,151,,1,46,2026-02-27 15:00:00,Sipariş müşteri tarafından oluşturuldu.
+698,151,1,2,46,2026-02-27 15:02:00,Ödeme servisi onayı alındı.
+699,151,2,3,46,2026-02-27 18:00:00,Depo hazırlık süreci başladı.
+700,151,3,4,46,2026-02-28 01:00:00,Kargo firmasına çıkış yapıldı.
+701,151,4,5,46,2026-03-01 15:00:00,Müşteriye teslim edildi.
+702,152,,1,6,2026-03-01 22:42:00,Sipariş müşteri tarafından oluşturuldu.
+703,152,1,2,6,2026-03-01 22:44:00,Ödeme servisi onayı alındı.
+704,152,2,3,6,2026-03-02 01:42:00,Depo hazırlık süreci başladı.
+705,152,3,4,6,2026-03-02 08:42:00,Kargo firmasına çıkış yapıldı.
+706,152,4,5,6,2026-03-03 22:42:00,Müşteriye teslim edildi.
+707,153,,1,25,2026-03-03 17:28:00,Sipariş müşteri tarafından oluşturuldu.
+708,153,1,2,25,2026-03-03 17:30:00,Ödeme servisi onayı alındı.
+709,154,,1,45,2026-03-05 17:03:00,Sipariş müşteri tarafından oluşturuldu.
+710,154,1,2,45,2026-03-05 17:05:00,Ödeme servisi onayı alındı.
+711,154,2,3,45,2026-03-05 20:03:00,Depo hazırlık süreci başladı.
+712,154,3,4,45,2026-03-06 03:03:00,Kargo firmasına çıkış yapıldı.
+713,155,,1,15,2026-03-07 17:08:00,Sipariş müşteri tarafından oluşturuldu.
+714,155,1,2,15,2026-03-07 17:10:00,Ödeme servisi onayı alındı.
+715,155,2,3,15,2026-03-07 20:08:00,Depo hazırlık süreci başladı.
+716,155,3,4,15,2026-03-08 03:08:00,Kargo firmasına çıkış yapıldı.
+717,155,4,5,15,2026-03-09 17:08:00,Müşteriye teslim edildi.
+718,156,,1,39,2026-03-08 12:33:00,Sipariş müşteri tarafından oluşturuldu.
+719,156,1,2,39,2026-03-08 12:35:00,Ödeme servisi onayı alındı.
+720,156,2,3,39,2026-03-08 15:33:00,Depo hazırlık süreci başladı.
+721,156,3,4,39,2026-03-08 22:33:00,Kargo firmasına çıkış yapıldı.
+722,156,4,5,39,2026-03-10 12:33:00,Müşteriye teslim edildi.
+723,156,5,7,39,2026-03-13 12:33:00,İade incelendi ve ücret iadesi onaylandı.
+724,157,,1,14,2026-03-11 08:37:00,Sipariş müşteri tarafından oluşturuldu.
+725,157,1,2,14,2026-03-11 08:39:00,Ödeme servisi onayı alındı.
+726,157,2,3,14,2026-03-11 11:37:00,Depo hazırlık süreci başladı.
+727,157,3,4,14,2026-03-11 18:37:00,Kargo firmasına çıkış yapıldı.
+728,157,4,5,14,2026-03-13 08:37:00,Müşteriye teslim edildi.
+729,158,,1,20,2026-03-12 10:25:00,Sipariş müşteri tarafından oluşturuldu.
+730,158,1,2,20,2026-03-12 10:27:00,Ödeme servisi onayı alındı.
+731,158,2,3,20,2026-03-12 13:25:00,Depo hazırlık süreci başladı.
+732,158,3,4,20,2026-03-12 20:25:00,Kargo firmasına çıkış yapıldı.
+733,158,4,5,20,2026-03-14 10:25:00,Müşteriye teslim edildi.
+734,159,,1,5,2026-03-15 01:02:00,Sipariş müşteri tarafından oluşturuldu.
+735,159,1,2,5,2026-03-15 01:04:00,Ödeme servisi onayı alındı.
+736,159,2,3,5,2026-03-15 04:02:00,Depo hazırlık süreci başladı.
+737,159,3,4,5,2026-03-15 11:02:00,Kargo firmasına çıkış yapıldı.
+738,159,4,5,5,2026-03-17 01:02:00,Müşteriye teslim edildi.
+739,160,,1,25,2026-03-16 22:05:00,Sipariş müşteri tarafından oluşturuldu.
+740,160,1,2,25,2026-03-16 22:07:00,Ödeme servisi onayı alındı.
+741,160,2,3,25,2026-03-17 01:05:00,Depo hazırlık süreci başladı.
+742,160,3,4,25,2026-03-17 08:05:00,Kargo firmasına çıkış yapıldı.
+743,160,4,5,25,2026-03-18 22:05:00,Müşteriye teslim edildi.
+744,161,,1,15,2026-03-17 10:48:00,Sipariş müşteri tarafından oluşturuldu.
+745,161,1,2,15,2026-03-17 10:50:00,Ödeme servisi onayı alındı.
+746,161,2,3,15,2026-03-17 13:48:00,Depo hazırlık süreci başladı.
+747,161,3,4,15,2026-03-17 20:48:00,Kargo firmasına çıkış yapıldı.
+748,162,,1,23,2026-03-19 14:17:00,Sipariş müşteri tarafından oluşturuldu.
+749,162,1,2,23,2026-03-19 14:19:00,Ödeme servisi onayı alındı.
+750,163,,1,16,2026-03-21 16:04:00,Sipariş müşteri tarafından oluşturuldu.
+751,163,1,2,16,2026-03-21 16:06:00,Ödeme servisi onayı alındı.
+752,163,2,3,16,2026-03-21 19:04:00,Depo hazırlık süreci başladı.
+753,163,3,4,16,2026-03-22 02:04:00,Kargo firmasına çıkış yapıldı.
+754,163,4,5,16,2026-03-23 16:04:00,Müşteriye teslim edildi.
+755,164,,1,26,2026-03-24 00:14:00,Sipariş müşteri tarafından oluşturuldu.
+756,164,1,2,26,2026-03-24 00:16:00,Ödeme servisi onayı alındı.
+757,164,2,3,26,2026-03-24 03:14:00,Depo hazırlık süreci başladı.
+758,164,3,4,26,2026-03-24 10:14:00,Kargo firmasına çıkış yapıldı.
+759,164,4,5,26,2026-03-26 00:14:00,Müşteriye teslim edildi.
+760,165,,1,10,2026-03-26 07:33:00,Sipariş müşteri tarafından oluşturuldu.
+761,165,1,2,10,2026-03-26 07:35:00,Ödeme servisi onayı alındı.
+762,165,2,6,10,2026-03-26 08:33:00,Müşteri talebiyle iptal edildi.
+763,166,,1,4,2026-03-26 21:41:00,Sipariş müşteri tarafından oluşturuldu.
+764,166,1,2,4,2026-03-26 21:43:00,Ödeme servisi onayı alındı.
+765,166,2,3,4,2026-03-27 00:41:00,Depo hazırlık süreci başladı.
+766,166,3,4,4,2026-03-27 07:41:00,Kargo firmasına çıkış yapıldı.
+767,166,4,5,4,2026-03-28 21:41:00,Müşteriye teslim edildi.
+768,167,,1,20,2026-03-29 08:09:00,Sipariş müşteri tarafından oluşturuldu.
+769,167,1,2,20,2026-03-29 08:11:00,Ödeme servisi onayı alındı.
+770,167,2,3,20,2026-03-29 11:09:00,Depo hazırlık süreci başladı.
+771,167,3,4,20,2026-03-29 18:09:00,Kargo firmasına çıkış yapıldı.
+772,167,4,5,20,2026-03-31 08:09:00,Müşteriye teslim edildi.
+773,168,,1,6,2026-03-31 00:54:00,Sipariş müşteri tarafından oluşturuldu.
+774,168,1,2,6,2026-03-31 00:56:00,Ödeme servisi onayı alındı.
+775,168,2,3,6,2026-03-31 03:54:00,Depo hazırlık süreci başladı.
+776,168,3,4,6,2026-03-31 10:54:00,Kargo firmasına çıkış yapıldı.
+777,168,4,5,6,2026-04-02 00:54:00,Müşteriye teslim edildi.
+778,168,5,7,6,2026-04-05 00:54:00,İade incelendi ve ücret iadesi onaylandı.
+779,169,,1,22,2026-04-01 19:58:00,Sipariş müşteri tarafından oluşturuldu.
+780,169,1,2,22,2026-04-01 20:00:00,Ödeme servisi onayı alındı.
+781,169,2,3,22,2026-04-01 22:58:00,Depo hazırlık süreci başladı.
+782,169,3,4,22,2026-04-02 05:58:00,Kargo firmasına çıkış yapıldı.
+783,169,4,5,22,2026-04-03 19:58:00,Müşteriye teslim edildi.
+784,170,,1,45,2026-04-04 05:45:00,Sipariş müşteri tarafından oluşturuldu.
+785,170,1,2,45,2026-04-04 05:47:00,Ödeme servisi onayı alındı.
+786,170,2,3,45,2026-04-04 08:45:00,Depo hazırlık süreci başladı.
+787,170,3,4,45,2026-04-04 15:45:00,Kargo firmasına çıkış yapıldı.
+788,170,4,5,45,2026-04-06 05:45:00,Müşteriye teslim edildi.
+789,171,,1,42,2026-04-04 21:19:00,Sipariş müşteri tarafından oluşturuldu.
+790,171,1,2,42,2026-04-04 21:21:00,Ödeme servisi onayı alındı.
+791,172,,1,14,2026-04-06 21:20:00,Sipariş müşteri tarafından oluşturuldu.
+792,172,1,2,14,2026-04-06 21:22:00,Ödeme servisi onayı alındı.
+793,172,2,3,14,2026-04-07 00:20:00,Depo hazırlık süreci başladı.
+794,172,3,4,14,2026-04-07 07:20:00,Kargo firmasına çıkış yapıldı.
+795,172,4,5,14,2026-04-08 21:20:00,Müşteriye teslim edildi.
+796,173,,1,22,2026-04-08 17:24:00,Sipariş müşteri tarafından oluşturuldu.
+797,173,1,2,22,2026-04-08 17:26:00,Ödeme servisi onayı alındı.
+798,173,2,3,22,2026-04-08 20:24:00,Depo hazırlık süreci başladı.
+799,173,3,4,22,2026-04-09 03:24:00,Kargo firmasına çıkış yapıldı.
+800,173,4,5,22,2026-04-10 17:24:00,Müşteriye teslim edildi.
+801,174,,1,42,2026-04-11 01:29:00,Sipariş müşteri tarafından oluşturuldu.
+802,174,1,2,42,2026-04-11 01:31:00,Ödeme servisi onayı alındı.
+803,174,2,3,42,2026-04-11 04:29:00,Depo hazırlık süreci başladı.
+804,174,3,4,42,2026-04-11 11:29:00,Kargo firmasına çıkış yapıldı.
+805,174,4,5,42,2026-04-13 01:29:00,Müşteriye teslim edildi.
+806,175,,1,35,2026-04-13 06:03:00,Sipariş müşteri tarafından oluşturuldu.
+807,175,1,2,35,2026-04-13 06:05:00,Ödeme servisi onayı alındı.
+808,175,2,3,35,2026-04-13 09:03:00,Depo hazırlık süreci başladı.
+809,175,3,4,35,2026-04-13 16:03:00,Kargo firmasına çıkış yapıldı.
+810,176,,1,15,2026-04-13 12:45:00,Sipariş müşteri tarafından oluşturuldu.
+811,176,1,2,15,2026-04-13 12:47:00,Ödeme servisi onayı alındı.
+812,176,2,3,15,2026-04-13 15:45:00,Depo hazırlık süreci başladı.
+813,176,3,4,15,2026-04-13 22:45:00,Kargo firmasına çıkış yapıldı.
+814,176,4,5,15,2026-04-15 12:45:00,Müşteriye teslim edildi.
+815,177,,1,35,2026-04-16 03:26:00,Sipariş müşteri tarafından oluşturuldu.
+816,177,1,2,35,2026-04-16 03:28:00,Ödeme servisi onayı alındı.
+817,177,2,3,35,2026-04-16 06:26:00,Depo hazırlık süreci başladı.
+818,177,3,4,35,2026-04-16 13:26:00,Kargo firmasına çıkış yapıldı.
+819,177,4,5,35,2026-04-18 03:26:00,Müşteriye teslim edildi.
+820,178,,1,45,2026-04-18 07:27:00,Sipariş müşteri tarafından oluşturuldu.
+821,178,1,2,45,2026-04-18 07:29:00,Ödeme servisi onayı alındı.
+822,178,2,3,45,2026-04-18 10:27:00,Depo hazırlık süreci başladı.
+823,178,3,4,45,2026-04-18 17:27:00,Kargo firmasına çıkış yapıldı.
+824,178,4,5,45,2026-04-20 07:27:00,Müşteriye teslim edildi.
+825,179,,1,18,2026-04-19 22:05:00,Sipariş müşteri tarafından oluşturuldu.
+826,179,1,2,18,2026-04-19 22:07:00,Ödeme servisi onayı alındı.
+827,179,2,3,18,2026-04-20 01:05:00,Depo hazırlık süreci başladı.
+828,179,3,4,18,2026-04-20 08:05:00,Kargo firmasına çıkış yapıldı.
+829,179,4,5,18,2026-04-21 22:05:00,Müşteriye teslim edildi.
+830,180,,1,25,2026-04-21 22:35:00,Sipariş müşteri tarafından oluşturuldu.
+831,180,1,2,25,2026-04-21 22:37:00,Ödeme servisi onayı alındı.
+832,180,2,6,25,2026-04-21 23:35:00,Müşteri talebiyle iptal edildi.

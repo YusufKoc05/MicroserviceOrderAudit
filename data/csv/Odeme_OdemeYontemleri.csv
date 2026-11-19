@@ -1,0 +1,5 @@
+OdemeYontemID,YontemKodu,YontemAdi,AktifMi
+1,CREDIT_CARD,Kredi Kartı (3D Secure),1
+2,DEBIT_CARD,Banka Kartı,1
+3,WIRE_EFT,Havale / FAST / EFT,1
+4,DIGITAL_WALLET,Dijital Cüzdan,1

@@ -1,0 +1,6 @@
+SeviyeID,SeviyeKodu,SeviyeAdi,OncelikSirasi
+1,INFO,Bilgi (INFO),1
+2,WARN,Uyarı (WARN),2
+3,ERROR,Hata (ERROR),3
+4,CRITICAL,Kritik (CRITICAL),4
+5,SECURITY,Güvenlik (SECURITY),5

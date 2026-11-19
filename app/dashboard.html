@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="tr" class="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MerkeziAuditSiparisDB | Mikroservis Sipariş & Merkezi Audit Analitik Platformu</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body { background-color: #0b0f19; color: #e2e8f0; font-family: 'Inter', system-ui, -apple-system, sans-serif; }
+    .glass { background: rgba(17, 24, 39, 0.85); backdrop-filter: blur(12px); border: 1px solid rgba(255,255,255,0.08); }
+    pre { white-space: pre-wrap; word-break: break-word; }
+  </style>
+</head>
+<body class="min-h-screen flex flex-col">
+
+  <!-- Üst Başlık -->
+  <header class="glass sticky top-0 z-30 border-b border-slate-800 px-6 py-4">
+    <div class="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-4">
+      <div class="flex items-center gap-3">
+        <div class="w-10 h-10 rounded-xl bg-indigo-600 flex items-center justify-center font-bold text-white shadow-lg shadow-indigo-500/30">
+          DB
+        </div>
+        <div>
+          <h1 class="text-lg font-bold text-white tracking-tight">MerkeziAuditSiparisDB — Mikroservis & Audit Analitik Platformu</h1>
+          <p class="text-xs text-slate-400">5 Şema (<span class="text-indigo-400">Kimlik • Siparis • Odeme • Kargo • Denetim</span>) • 20 Tablo • 21 Analitik Sorgu & Canlı Trigger Simülatörü</p>
+        </div>
+      </div>
+      <div class="flex items-center gap-2">
+        <a href="/docs" target="_blank" class="px-3 py-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-xs font-medium text-indigo-300 border border-slate-700 transition">
+          Swagger / OpenAPI Docs ↗
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Ana İçerik -->
+  <main class="max-w-7xl mx-auto w-full px-6 py-6 space-y-6 flex-1">
+
+    <!-- KPI Kartları -->
+    <section id="kpi-grid" class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
+      <div class="glass rounded-xl p-4">
+        <div class="text-xs text-slate-400">Toplam Ciro</div>
+        <div id="kpi-ciro" class="text-xl font-bold text-emerald-400 mt-1">...</div>
+        <div class="text-[11px] text-slate-500 mt-1">Siparis.Siparisler</div>
+      </div>
+      <div class="glass rounded-xl p-4">
+        <div class="text-xs text-slate-400">Toplam Sipariş</div>
+        <div id="kpi-siparis" class="text-xl font-bold text-white mt-1">...</div>
+        <div id="kpi-sepet" class="text-[11px] text-indigo-400 mt-1">Ort: ...</div>
+      </div>
+      <div class="glass rounded-xl p-4">
+        <div class="text-xs text-slate-400">Kayıtlı Kullanıcı</div>
+        <div id="kpi-kullanici" class="text-xl font-bold text-sky-400 mt-1">...</div>
+        <div class="text-[11px] text-slate-500 mt-1">Kimlik.Kullanicilar</div>
+      </div>
+      <div class="glass rounded-xl p-4">
+        <div class="text-xs text-slate-400">Merkezi Audit Kaydı</div>
+        <div id="kpi-audit" class="text-xl font-bold text-amber-400 mt-1">...</div>
+        <div id="kpi-audit-err" class="text-[11px] text-rose-400 mt-1">Hata/Uyarı: ...</div>
+      </div>
+      <div class="glass rounded-xl p-4">
+        <div class="text-xs text-slate-400">Toplam İade Tutarı</div>
+        <div id="kpi-iade-tutar" class="text-xl font-bold text-rose-400 mt-1">...</div>
+        <div id="kpi-iade-sayi" class="text-[11px] text-slate-500 mt-1">... işlem</div>
+      </div>
+      <div class="glass rounded-xl p-4">
+        <div class="text-xs text-slate-400">Aktif Mikroservis</div>
+        <div id="kpi-servis" class="text-xl font-bold text-purple-400 mt-1">6 Servis</div>
+        <div class="text-[11px] text-slate-500 mt-1">Kimlik.Servisler</div>
+      </div>
+    </section>
+
+    <!-- Sekmeler -->
+    <div class="flex flex-wrap gap-2 border-b border-slate-800 pb-3">
+      <button onclick="switchTab('tab-analytics')" id="btn-tab-analytics" class="tab-btn px-4 py-2 rounded-lg text-xs font-semibold bg-indigo-600 text-white">
+        1. SQL Analitik Sorgu Gezgini (SQLQuery2 - SQLQuery23)
+      </button>
+      <button onclick="switchTab('tab-trace')" id="btn-tab-trace" class="tab-btn px-4 py-2 rounded-lg text-xs font-semibold bg-slate-800 text-slate-300 hover:bg-slate-700">
+        2. Sipariş Yaşam Döngüsü, Kargo & Trigger Simülatörü
+      </button>
+      <button onclick="switchTab('tab-audit')" id="btn-tab-audit" class="tab-btn px-4 py-2 rounded-lg text-xs font-semibold bg-slate-800 text-slate-300 hover:bg-slate-700">
+        3. Merkezi Denetim (Audit) İzleme & Grafikler
+      </button>
+    </div>
+
+    <!-- SEKME 1: SQL ANALİTİK SORGU GEZGİNİ -->
+    <section id="tab-analytics" class="grid grid-cols-1 lg:grid-cols-12 gap-6">
+      <div class="lg:col-span-4 glass rounded-xl p-4 space-y-2 max-h-[680px] overflow-y-auto">
+        <h2 class="text-sm font-bold text-white mb-2">Depodaki Analitik Sorgular</h2>
+        <div id="query-list" class="space-y-2"></div>
+      </div>
+
+      <div class="lg:col-span-8 glass rounded-xl p-5 flex flex-col space-y-4">
+        <div class="flex flex-wrap items-center justify-between gap-2 border-b border-slate-800 pb-3">
+          <div>
+            <span id="q-code" class="text-xs font-mono px-2 py-0.5 rounded bg-indigo-950 text-indigo-300 border border-indigo-800">SQLQuery</span>
+            <h3 id="q-title" class="text-base font-bold text-white mt-1">Sorgu Seçiniz</h3>
+            <p id="q-desc" class="text-xs text-slate-400 mt-0.5"></p>
+          </div>
+          <span id="q-count" class="text-xs px-2.5 py-1 rounded-full bg-emerald-950 text-emerald-300 border border-emerald-800 font-medium">0 kayıt</span>
+        </div>
+
+        <div>
+          <div class="text-[11px] font-semibold uppercase tracking-wider text-slate-400 mb-1">T-SQL (SQL Server) Sorgusu:</div>
+          <pre id="q-sql" class="p-3 rounded-lg bg-slate-950 border border-slate-800 text-xs font-mono text-indigo-300 overflow-x-auto"></pre>
+        </div>
+
+        <div class="overflow-x-auto border border-slate-800 rounded-lg max-h-[380px]">
+          <table class="w-full text-left text-xs">
+            <thead id="q-thead" class="bg-slate-900 text-slate-300 sticky top-0"></thead>
+            <tbody id="q-tbody" class="divide-y divide-slate-800/70"></tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- SEKME 2: SİPARİŞ YAŞAM DÖNGÜSÜ & TRIGGER SİMÜLATÖRÜ -->
+    <section id="tab-trace" class="hidden space-y-6">
+      <div class="glass rounded-xl p-5 flex flex-wrap items-end justify-between gap-4">
+        <div class="flex flex-wrap items-end gap-3">
+          <div>
+            <label class="block text-xs text-slate-400 mb-1">İncelenecek Sipariş ID (1 - 180)</label>
+            <input id="trace-order-id" type="number" min="1" max="180" value="1" class="px-3 py-2 rounded-lg bg-slate-900 border border-slate-700 text-sm text-white w-36" />
+          </div>
+          <button onclick="loadOrderTimeline()" class="px-4 py-2 rounded-lg bg-indigo-600 hover:bg-indigo-500 text-xs font-semibold text-white">
+            Sipariş & Kargo İzini Getir (SQLQuery20 & 21)
+          </button>
+        </div>
+
+        <!-- Canlı Trigger Simülatörü -->
+        <div class="flex flex-wrap items-end gap-2 border-l border-slate-800 pl-4">
+          <div>
+            <label class="block text-xs text-amber-400 mb-1">Canlı Trigger Testi (trg_Siparisler_DurumVeAudit)</label>
+            <select id="sim-status-id" class="px-3 py-2 rounded-lg bg-slate-900 border border-slate-700 text-xs text-white">
+              <option value="2">2 - Ödeme Onaylandı</option>
+              <option value="3">3 - Hazırlanıyor</option>
+              <option value="4">4 - Kargoya Verildi</option>
+              <option value="5">5 - Teslim Edildi</option>
+              <option value="6">6 - İptal Edildi</option>
+              <option value="7">7 - İade Edildi</option>
+            </select>
+          </div>
+          <button onclick="triggerStatusChange()" class="px-4 py-2 rounded-lg bg-amber-600 hover:bg-amber-500 text-xs font-semibold text-white">
+            Durumu Güncelle & Otomatik Audit Üret
+          </button>
+        </div>
+      </div>
+
+      <div id="trace-info" class="glass rounded-xl p-5"></div>
+
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+        <div class="glass rounded-xl p-5">
+          <h3 class="text-sm font-bold text-white mb-3">Sipariş Durum Geçmişi (SQLQuery21 - Siparis.SiparisDurumGecmisi)</h3>
+          <div id="trace-state-list" class="space-y-3"></div>
+        </div>
+        <div class="glass rounded-xl p-5">
+          <h3 class="text-sm font-bold text-white mb-3">Kargo Hareketleri (SQLQuery20 - Kargo.KargoHareketleri)</h3>
+          <div id="trace-cargo-list" class="space-y-3"></div>
+        </div>
+      </div>
+
+      <div class="glass rounded-xl p-5">
+        <h3 class="text-sm font-bold text-white mb-3">Bu Siparişe Ait Merkezi Denetim Kayıtları (Denetim.DenetimKayitlari)</h3>
+        <div id="trace-audit-list" class="space-y-2"></div>
+      </div>
+    </section>
+
+    <!-- SEKME 3: MERKEZİ DENETİM (AUDIT) & GRAFİKLER -->
+    <section id="tab-audit" class="hidden space-y-6">
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+        <div class="glass rounded-xl p-5">
+          <h3 class="text-sm font-bold text-white mb-3">Aylık Ciro Trendi (SQLQuery8 & 9)</h3>
+          <canvas id="chart-monthly" height="180"></canvas>
+        </div>
+        <div class="glass rounded-xl p-5">
+          <h3 class="text-sm font-bold text-white mb-3">Sipariş Durumlarına Göre Ciro Dağılımı (SQLQuery7)</h3>
+          <canvas id="chart-status" height="180"></canvas>
+        </div>
+      </div>
+
+      <div class="glass rounded-xl p-5">
+        <div class="flex items-center justify-between mb-3">
+          <h3 class="text-sm font-bold text-white">Canlı Merkezi Audit Log Akışı (Denetim.DenetimKayitlari)</h3>
+          <button onclick="loadAuditLogs()" class="px-3 py-1 rounded bg-slate-800 hover:bg-slate-700 text-xs text-indigo-300">Yenile</button>
+        </div>
+        <div class="overflow-x-auto">
+          <table class="w-full text-left text-xs">
+            <thead class="bg-slate-900 text-slate-400">
+              <tr>
+                <th class="p-2">ID</th>
+                <th class="p-2">Tarih</th>
+                <th class="p-2">Servis</th>
+                <th class="p-2">Olay</th>
+                <th class="p-2">Seviye</th>
+                <th class="p-2">Varlık</th>
+                <th class="p-2">Korelasyon ID</th>
+                <th class="p-2">Mesaj</th>
+              </tr>
+            </thead>
+            <tbody id="audit-table-body" class="divide-y divide-slate-800"></tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <script>
+    let monthlyChart = null;
+    let statusChart = null;
+
+    function switchTab(tabId) {
+      ['tab-analytics', 'tab-trace', 'tab-audit'].forEach(id => {
+        document.getElementById(id).classList.add('hidden');
+        const btn = document.getElementById('btn-' + id);
+        btn.classList.remove('bg-indigo-600', 'text-white');
+        btn.classList.add('bg-slate-800', 'text-slate-300');
+      });
+      document.getElementById(tabId).classList.remove('hidden');
+      const activeBtn = document.getElementById('btn-' + tabId);
+      activeBtn.classList.remove('bg-slate-800', 'text-slate-300');
+      activeBtn.classList.add('bg-indigo-600', 'text-white');
+
+      if (tabId === 'tab-trace') loadOrderTimeline();
+      if (tabId === 'tab-audit') loadAuditLogs();
+    }
+
+    async function loadOverview() {
+      const res = await fetch('/api/overview');
+      const data = await res.json();
+      const k = data.kpis;
+      document.getElementById('kpi-ciro').textContent = Number(k.ToplamCiro).toLocaleString('tr-TR') + ' ₺';
+      document.getElementById('kpi-siparis').textContent = k.ToplamSiparis + ' Sipariş';
+      document.getElementById('kpi-sepet').textContent = 'Ort. Sepet: ' + Number(k.OrtalamaSepet).toLocaleString('tr-TR') + ' ₺';
+      document.getElementById('kpi-kullanici').textContent = k.ToplamKullanici + ' Kişi';
+      document.getElementById('kpi-audit').textContent = k.ToplamAudit + ' Log';
+      document.getElementById('kpi-audit-err').textContent = 'Hatalı/Uyarı: ' + k.HataliOlaySayisi;
+      document.getElementById('kpi-iade-tutar').textContent = Number(k.ToplamIadeTutari).toLocaleString('tr-TR') + ' ₺';
+      document.getElementById('kpi-iade-sayi').textContent = k.IadeSayisi + ' İade İşlemi';
+
+      // Grafikler
+      const ctxM = document.getElementById('chart-monthly').getContext('2d');
+      if (monthlyChart) monthlyChart.destroy();
+      monthlyChart = new Chart(ctxM, {
+        type: 'line',
+        data: {
+          labels: data.monthly_trend.map(r => r.Donem),
+          datasets: [{
+            label: 'Aylık Ciro (TRY)',
+            data: data.monthly_trend.map(r => r.ToplamCiro),
+            borderColor: '#6366f1',
+            backgroundColor: 'rgba(99, 102, 241, 0.2)',
+            fill: true,
+            tension: 0.3
+          }]
+        },
+        options: { plugins: { legend: { labels: { color: '#cbd5e1' } } }, scales: { x: { ticks: { color: '#94a3b8' } }, y: { ticks: { color: '#94a3b8' } } } }
+      });
+
+      const ctxS = document.getElementById('chart-status').getContext('2d');
+      if (statusChart) statusChart.destroy();
+      statusChart = new Chart(ctxS, {
+        type: 'bar',
+        data: {
+          labels: data.status_distribution.map(r => r.DurumAdi),
+          datasets: [{
+            label: 'Toplam Ciro (TRY)',
+            data: data.status_distribution.map(r => r.ToplamCiro),
+            backgroundColor: ['#10b981', '#6366f1', '#f59e0b', '#ef4444', '#ec4899', '#3b82f6']
+          }]
+        },
+        options: { plugins: { legend: { labels: { color: '#cbd5e1' } } }, scales: { x: { ticks: { color: '#94a3b8' } }, y: { ticks: { color: '#94a3b8' } } } }
+      });
+    }
+
+    async function loadQueryList() {
+      const res = await fetch('/api/queries');
+      const queries = await res.json();
+      const container = document.getElementById('query-list');
+      container.innerHTML = '';
+      queries.forEach((q, idx) => {
+        const btn = document.createElement('button');
+        btn.className = 'w-full text-left p-3 rounded-lg bg-slate-900/90 hover:bg-slate-800 border border-slate-800 transition flex flex-col gap-1';
+        btn.innerHTML = `
+          <div class="flex items-center justify-between">
+            <span class="text-[11px] font-mono text-indigo-400 font-semibold">${q.code}</span>
+            <span class="text-[10px] px-2 py-0.5 rounded bg-slate-800 text-slate-300">${q.category}</span>
+          </div>
+          <div class="text-xs font-semibold text-white">${q.title}</div>
+        `;
+        btn.onclick = () => runQuery(q.key);
+        container.appendChild(btn);
+        if (idx === 0) runQuery(q.key);
+      });
+    }
+
+    async function runQuery(key) {
+      const res = await fetch('/api/queries/' + key);
+      const data = await res.json();
+      document.getElementById('q-code').textContent = data.code;
+      document.getElementById('q-title').textContent = data.title;
+      document.getElementById('q-desc').textContent = data.description;
+      document.getElementById('q-sql').textContent = data.tsql;
+      document.getElementById('q-count').textContent = data.row_count + ' satır';
+
+      const thead = document.getElementById('q-thead');
+      const tbody = document.getElementById('q-tbody');
+      thead.innerHTML = '';
+      tbody.innerHTML = '';
+
+      if (data.rows.length > 0) {
+        const cols = Object.keys(data.rows[0]);
+        thead.innerHTML = '<tr>' + cols.map(c => `<th class="p-2.5 font-semibold border-b border-slate-800">${c}</th>`).join('') + '</tr>';
+        data.rows.forEach(r => {
+          const tr = document.createElement('tr');
+          tr.className = 'hover:bg-slate-900/60';
+          tr.innerHTML = cols.map(c => `<td class="p-2.5 text-slate-300 font-mono">${r[c] !== null ? r[c] : '-'}</td>`).join('');
+          tbody.appendChild(tr);
+        });
+      }
+    }
+
+    async function loadOrderTimeline() {
+      const id = document.getElementById('trace-order-id').value || 1;
+      const res = await fetch(`/api/orders/${id}/timeline`);
+      if (!res.ok) {
+        alert('Sipariş bulunamadı!');
+        return;
+      }
+      const data = await res.json();
+      const o = data.order;
+      document.getElementById('trace-info').innerHTML = `
+        <div class="flex flex-wrap items-center justify-between gap-4">
+          <div>
+            <span class="text-xs font-mono text-indigo-400">${o.SiparisNo}</span>
+            <h3 class="text-base font-bold text-white">${o.MusteriAdi} (${o.Eposta})</h3>
+            <p class="text-xs text-slate-400">Oluşturan Mikroservis: <span class="text-slate-200">${o.OlusturanServis}</span> • Tarih: ${o.SiparisTarihi}</p>
+          </div>
+          <div class="text-right">
+            <span class="px-3 py-1 rounded-full text-xs font-semibold bg-indigo-950 text-indigo-300 border border-indigo-700">${o.MevcutDurum}</span>
+            <div class="text-lg font-bold text-emerald-400 mt-1">${Number(o.GenelToplam).toLocaleString('tr-TR')} ${o.ParaBirimi}</div>
+          </div>
+        </div>
+      `;
+
+      document.getElementById('trace-state-list').innerHTML = data.state_history.map(s => `
+        <div class="p-3 rounded-lg bg-slate-900/90 border border-slate-800 text-xs">
+          <div class="flex justify-between text-slate-400">
+            <span>${s.EskiDurum} → <strong class="text-indigo-300">${s.YeniDurum}</strong></span>
+            <span class="font-mono">${s.DegisimTarihi}</span>
+          </div>
+          <div class="text-slate-300 mt-1">${s.Aciklama}</div>
+        </div>
+      `).join('');
+
+      document.getElementById('trace-cargo-list').innerHTML = data.cargo_movements.length
+        ? data.cargo_movements.map(c => `
+          <div class="p-3 rounded-lg bg-slate-900/90 border border-slate-800 text-xs">
+            <div class="flex justify-between">
+              <span class="font-semibold text-emerald-300">${c.DurumAdi} (${c.FirmaAdi})</span>
+              <span class="font-mono text-slate-400">${c.HareketTarihi}</span>
+            </div>
+            <div class="text-slate-300 mt-1">📍 ${c.Lokasyon} — ${c.Aciklama}</div>
+          </div>
+        `).join('')
+        : '<div class="text-xs text-amber-400">Bu sipariş için henüz kargo çıkışı yapılmamış (SQLQuery19 SLA kapsamı).</div>';
+
+      document.getElementById('trace-audit-list').innerHTML = data.audit_logs.map(a => `
+        <div class="p-3 rounded-lg bg-slate-900/90 border border-slate-800 text-xs flex flex-wrap justify-between items-center gap-2">
+          <div>
+            <span class="px-2 py-0.5 rounded bg-slate-800 font-mono text-indigo-300">${a.ServisKodu}</span>
+            <span class="ml-2 font-semibold text-white">${a.OlayAdi}</span>
+            <span class="ml-2 text-slate-300">${a.Mesaj}</span>
+          </div>
+          <div class="font-mono text-[11px] text-slate-400">CorrID: ${a.KorelasyonID.slice(0, 8)}... • ${a.OlusturmaTarihi}</div>
+        </div>
+      `).join('');
+    }
+
+    async function triggerStatusChange() {
+      const id = document.getElementById('trace-order-id').value || 1;
+      const yeni_durum_id = parseInt(document.getElementById('sim-status-id').value, 10);
+      const res = await fetch(`/api/orders/${id}/status`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          yeni_durum_id,
+          aciklama: 'Canlı Dashboard Trigger Simülatörü ile durum güncellendi'
+        })
+      });
+      if (res.ok) {
+        await loadOrderTimeline();
+        await loadOverview();
+      }
+    }
+
+    async function loadAuditLogs() {
+      const res = await fetch('/api/audit-logs?limit=40');
+      const logs = await res.json();
+      document.getElementById('audit-table-body').innerHTML = logs.map(l => `
+        <tr class="hover:bg-slate-900/60">
+          <td class="p-2 font-mono text-slate-400">#${l.DenetimID}</td>
+          <td class="p-2 font-mono text-slate-300">${l.OlusturmaTarihi}</td>
+          <td class="p-2"><span class="px-2 py-0.5 rounded bg-slate-800 text-indigo-300 font-mono">${l.ServisKodu}</span></td>
+          <td class="p-2 text-white font-medium">${l.OlayAdi}</td>
+          <td class="p-2">
+            <span class="px-2 py-0.5 rounded text-[11px] font-semibold ${l.BasariliMi ? 'bg-emerald-950 text-emerald-300' : 'bg-rose-950 text-rose-300'}">
+              ${l.SeviyeKodu}
+            </span>
+          </td>
+          <td class="p-2 font-mono text-slate-300">${l.VarlikTipi}: ${l.VarlikID}</td>
+          <td class="p-2 font-mono text-slate-400">${l.KorelasyonID.slice(0, 12)}...</td>
+          <td class="p-2 text-slate-200">${l.Mesaj}</td>
+        </tr>
+      `).join('');
+    }
+
+    loadOverview();
+    loadQueryList();
+  </script>
+</body>
+</html>

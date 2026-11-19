@@ -1,0 +1,7 @@
+ServisID,ServisKodu,ServisAdi,Surum,AktifMi
+1,API-GW,API Gateway Servisi,v2.4.0,1
+2,IDENTITY-SVC,Kimlik ve Yetkilendirme Servisi,v1.8.2,1
+3,ORDER-SVC,Sipariş Yönetim Mikroservisi,v3.1.0,1
+4,PAYMENT-SVC,Ödeme ve İade Mikroservisi,v2.5.1,1
+5,CARGO-SVC,Kargo ve Lojistik Mikroservisi,v1.9.4,1
+6,AUDIT-SVC,Merkezi Denetim ve İzleme Servisi,v2.0.0,1

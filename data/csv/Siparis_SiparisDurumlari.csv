@@ -1,0 +1,8 @@
+SiparisDurumID,DurumKodu,DurumAdi,Aciklama
+1,CREATED,Sipariş Oluşturuldu,"Sipariş alındı, ödeme bekleniyor"
+2,PAYMENT_APPROVED,Ödeme Onaylandı,Ödeme başarıyla tahsil edildi
+3,PREPARING,Hazırlanıyor,Depoda paketleme aşamasında
+4,SHIPPED,Kargoya Verildi,Kargo firmasına teslim edildi
+5,DELIVERED,Teslim Edildi,Müşteriye başarıyla teslim edildi
+6,CANCELLED,İptal Edildi,Sipariş iptal edildi
+7,REFUNDED,İade Edildi,Ücret iadesi tamamlandı

@@ -1,0 +1,5 @@
+OdemeDurumID,DurumKodu,DurumAdi
+1,SUCCESS,Başarılı
+2,PENDING,Beklemede
+3,FAILED,Başarısız
+4,REFUNDED,İade Edildi

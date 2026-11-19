@@ -1,0 +1,10 @@
+OlayTurID,OlayKodu,OlayAdi,Kategori
+1,USER_LOGIN,Kullanıcı Girişi,Kimlik
+2,ORDER_CREATED,Yeni Sipariş Oluşturuldu,Siparis
+3,ORDER_STATUS_CHANGED,Sipariş Durumu Değişti,Siparis
+4,PAYMENT_PROCESSED,Ödeme İşlemi Gerçekleşti,Odeme
+5,PAYMENT_FAILED,Ödeme Hatası Alındı,Odeme
+6,REFUND_ISSUED,İade İşlemi Başlatıldı,Odeme
+7,SHIPMENT_DISPATCHED,Kargo Çıkışı Yapıldı,Kargo
+8,SHIPMENT_DELIVERED,Kargo Teslim Edildi,Kargo
+9,DATA_RECONCILIATION_WARN,Finansal Mutabakat Uyarısı,Denetim
