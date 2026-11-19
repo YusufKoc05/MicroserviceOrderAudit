@@ -93,7 +93,7 @@ erDiagram
 ## 📂 Project Directory Structure
 
 ```text
-MikroServisSipai-veAuditSistemi/
+MicroserviceOrderAudit/
 ├── app/
 │   ├── main.py                            # FastAPI REST API & Trigger Simulation Service
 │   └── dashboard.html                     # Interactive Dark-Mode Analytics Dashboard

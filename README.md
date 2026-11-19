@@ -93,7 +93,7 @@ erDiagram
 ## 📂 Proje Dizin Yapısı
 
 ```text
-MikroServisSipai-veAuditSistemi/
+MicroserviceOrderAudit/
 ├── app/
 │   ├── main.py                            # FastAPI REST API & Trigger Simülasyon Servisi
 │   └── dashboard.html                     # İnteraktif Karanlık Mod Analitik Dashboard
